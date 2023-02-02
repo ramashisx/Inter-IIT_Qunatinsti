@@ -1,7 +1,8 @@
 import datetime
 import double_top_bottom as dtb
+
 # date,open,close,high,low,volume
-data = [[],[],[],[],[]]
+data = [[], [], [], [], []]
 with open('data/tcs.txt') as file:
     for line in file:
         items = line.strip().split(',')
@@ -20,10 +21,10 @@ with open('data/tcs.txt') as file:
 import plotly.graph_objects as go
 
 data1 = go.Ohlc(x=data[0],
-                   open=data[1],
-                   high=data[3],
-                   low=data[4],
-                   close=data[2])
+                open=data[1],
+                high=data[3],
+                low=data[4],
+                close=data[2])
 
 layout = dict(title="tcs")
 fig = go.Figure(data=data1, layout=layout)
@@ -34,5 +35,5 @@ double_top_bottom_calculator = dtb.double_top_bottom(5)
 for i in range(data[0].__len__()):
     double_top_bottom_calculator.zigzag(i, {'low': data[4][i], 'high': data[3][i], 'date': data[0][i]})
     double_top, double_bottom = double_top_bottom_calculator.calculate_double_pattern()
-    if(double_top or double_bottom):
+    if (double_top or double_bottom):
         print('detected')

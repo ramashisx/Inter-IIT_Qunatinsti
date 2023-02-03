@@ -28,9 +28,9 @@ def backtest15(data,strategy):
 
     data =dataFeed(
             dataname="15m/"+data+".csv",
-            timeframe=bt.TimeFrame.Minutes
+            timeframe=bt.TimeFrame.Minutes,
 #         fromdate = datetime.datetime(2020,12,1),
-#         todate = datetime.datetime(2020,12,30)
+        todate = datetime.datetime(2020,1,30)
 )
 
     print(data)
@@ -53,6 +53,7 @@ def backtest15(data,strategy):
     print('Final Portfolio Value: %.2f' % cerebro.broker.getvalue())
 
     cerebro.plot()
+    return thestrat.analyzers.mysharpe.get_analysis()['sharperatio'],cerebro.broker.getvalue()-100000.0
 
 def backtestday(data,strategy):
     
@@ -78,4 +79,6 @@ def backtestday(data,strategy):
     print('Sharpe Ratio:', thestrat.analyzers.mysharpe.get_analysis())
     print('Final Portfolio Value: %.2f' % cerebro.broker.getvalue())
 
-    cerebro.plot()
+    cerebro.plot(style='candlestick')
+
+    return thestrat.analyzers.mysharpe.get_analysis()['sharperatio'],cerebro.broker.getvalue()-100000.0

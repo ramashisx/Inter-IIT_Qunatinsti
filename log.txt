@@ -1,1 +1,1992 @@
-abc
+DEBUG:root:2020-12-10-2020-12-10, Buy EXECUTED 269.65
+DEBUG:root:2020-12-16-2020-12-16, Sell EXECUTED 269.45
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.0
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.2
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.45
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 269.3
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.7
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.35
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.0
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.8
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.8
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.85
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.05
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.05
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 271.4
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 271.15
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.85
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.6
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 271.1
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.75
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 269.85
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 269.8
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.1
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.4
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 269.0
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.35
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 267.65
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 267.7
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 267.9
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 267.0
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 265.05
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.15
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.05
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.1
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.1
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.4
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.65
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.4
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.1
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.3
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.55
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.0
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.45
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.65
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 267.2
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.9
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 267.2
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 268.45
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 269.6
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 270.6
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 270.6
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 271.5
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 268.45
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.5
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 267.25
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 267.8
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 267.45
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 267.4
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 267.05
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.65
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.15
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.65
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.6
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.9
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.8
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.7
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.0
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 264.6
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 263.85
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 263.6
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 261.15
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 259.25
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 259.2
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 255.6
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 255.55
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 252.0
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 255.35
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 254.8
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.75
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 250.6
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 249.8
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 251.7
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 254.0
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.5
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.45
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.3
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.9
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.05
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.2
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.1
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.35
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.35
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.85
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.3
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 254.8
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 256.75
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 256.7
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 257.3
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 257.75
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 258.0
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 257.0
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 257.6
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 256.95
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 257.15
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 257.4
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 259.75
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 259.2
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 260.8
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 261.6
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 261.75
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 261.65
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 260.7
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 260.95
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.0
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 261.95
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.3
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 263.35
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 263.0
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.45
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.45
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 263.25
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 263.0
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.95
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.55
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.55
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.35
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 263.0
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 265.0
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.3
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.3
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.1
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.3
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.8
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.65
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.2
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 265.6
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.95
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 268.15
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.75
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 268.0
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.55
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.95
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.65
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.7
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 268.0
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.75
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 268.05
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.95
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.65
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 268.2
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.35
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.85
+DEBUG:root:2020-12-28-2020-12-28, Sell EXECUTED 268.75
+DEBUG:root:2020-12-28-2020-12-28, Sell EXECUTED 271.0
+DEBUG:root:2020-12-28-2020-12-28, Sell EXECUTED 271.1
+DEBUG:root:2020-12-28-2020-12-28, Sell EXECUTED 271.35
+DEBUG:root:2020-12-28-2020-12-28, Sell EXECUTED 270.5
+DEBUG:matplotlib:CACHEDIR=/Users/raghavaggarwal/.matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /Users/raghavaggarwal/.matplotlib/fontlist-v310.json
+DEBUG:matplotlib.pyplot:Loaded backend MacOSX version unknown.
+DEBUG:matplotlib.pyplot:Loaded backend MacOSX version unknown.
+DEBUG:matplotlib.pyplot:Loaded backend nbAgg version unknown.
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Al Bayan' (AlBayan.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Waseem' (Waseem.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Verdana' (Verdana Bold.ttf) normal normal 700 normal>) = 3.9713636363636367
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W8.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Baghdad' (Baghdad.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.SF Arabic' (SFArabic.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Verdana' (Verdana Italic.ttf) italic normal 400 normal>) = 4.6863636363636365
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsD' (STIXIntDReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Hatran' (NotoSansHatran-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Apple Symbols' (Apple Symbols.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Apple Braille' (Apple Braille Pinpoint 6 Dot.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Cuneiform' (NotoSansCuneiform-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Mandaic' (NotoSansMandaic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Zapf Dingbats' (ZapfDingbats.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans NKo' (NotoSansNKo-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Heiti TC' (STHeiti Light.ttc) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.SF NS Mono' (SFNSMonoItalic.ttf) italic normal light normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Wingdings 2' (Wingdings 2.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Farah' (Farah.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.Keyboard' (Keyboard.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Times New Roman' (Times New Roman Bold Italic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Verdana' (Verdana.ttf) normal normal 400 normal>) = 3.6863636363636365
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Nastaliq Urdu' (NotoNastaliq.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Superclarendon' (SuperClarendon.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'ITF Devanagari' (ITFDevanagari.ttc) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'AppleGothic' (AppleGothic.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Palmyrene' (NotoSansPalmyrene-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Tai Tham' (NotoSansTaiTham-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Multani' (NotoSansMultani-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Snell Roundhand' (SnellRoundhand.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Old North Arabian' (NotoSansOldNorthArabian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Manichaean' (NotoSansManichaean-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Gothic' (NotoSansGothic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Yi' (NotoSansYi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Warang Citi' (NotoSansWarangCiti-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Comic Sans MS' (Comic Sans MS.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Serif Myanmar' (NotoSerifMyanmar.ttc) normal normal black normal>) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Diwan Thuluth' (Diwan Thuluth.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Apple Braille' (Apple Braille Outline 8 Dot.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Galvji' (Galvji.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Andale Mono' (Andale Mono.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Farisi' (Farisi.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kannada Sangam MN' (Kannada Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Buhid' (NotoSansBuhid-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Avenir Next' (Avenir Next.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial' (Arial Bold Italic.ttf) italic normal 700 normal>) = 7.698636363636363
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sinhala MN' (Sinhala MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Times' (Times.ttc) normal normal roman normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Wingdings' (Wingdings.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Marker Felt' (MarkerFelt.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Damascus' (Damascus.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Lisu' (NotoSansLisu-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'System Font' (SFNSItalic.ttf) italic normal regular normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gurmukhi MT' (Gurmukhi.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.otf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'SignPainter' (SignPainter.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsUp' (STIXIntUpReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsUpSm' (STIXIntUpSmBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KufiStandardGK' (KufiStandardGK.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Tifinagh' (NotoSansTifinagh-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Apple Braille' (Apple Braille Outline 6 Dot.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Kayah Li' (NotoSansKayahLi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Vai' (NotoSansVai-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Syriac' (NotoSansSyriac-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Tai Le' (NotoSansTaiLe-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Wancho' (NotoSansWancho-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Bhaiksuki' (NotoSansBhaiksuki-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Luminari' (Luminari.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Shree Devanagari 714' (Shree714.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Symbol' (Symbol.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Phoenician' (NotoSansPhoenician-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sana' (Sana.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Skia' (Skia.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Muna' (Muna.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Psalter Pahlavi' (NotoSansPsalterPahlavi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'System Font' (SFNS.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Brahmi' (NotoSansBrahmi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Chalkduster' (Chalkduster.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Old Italic' (NotoSansOldItalic-Regular.ttf) italic normal regular normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Takri' (NotoSansTakri-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Iowan Old Style' (Iowan Old Style.ttc) normal normal roman normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Chalkboard SE' (ChalkboardSE.ttc) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Unicode MS' (Arial Unicode.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Oriya Sangam MN' (Oriya Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Big Caslon' (BigCaslon.ttf) normal normal medium normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Hebrew' (ArialHB.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Bangla MN' (Bangla MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Avestan' (NotoSansAvestan-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kokonor' (Kokonor.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W9.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Courier' (Courier.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Futura' (Futura.ttc) normal normal medium normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W6.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Mende Kikakui' (NotoSansMendeKikakui-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Tirhuta' (NotoSansTirhuta-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Duployan' (NotoSansDuployan-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gurmukhi MN' (Gurmukhi MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Webdings' (Webdings.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Copperplate' (Copperplate.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tahoma' (Tahoma.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Microsoft Sans Serif' (Microsoft Sans Serif.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Courier New' (Courier New.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'PT Serif' (PTSerif.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Rejang' (NotoSansRejang-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Oriya' (NotoSansOriya.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Bassa Vah' (NotoSansBassaVah-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Cypriot' (NotoSansCypriot-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Imperial Aramaic' (NotoSansImperialAramaic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Times New Roman' (Times New Roman.ttf) normal normal roman normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tamil Sangam MN' (Tamil Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sukhumvit Set' (SukhumvitSet.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'American Typewriter' (AmericanTypewriter.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Inscriptional Parthian' (NotoSansInscriptionalParthian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Al Tarikh' (Al Tarikh.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Myanmar' (NotoSansMyanmar.ttc) normal normal black normal>) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Geeza Pro' (GeezaPro.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Palatino' (Palatino.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Sharada' (NotoSansSharada-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsSm' (STIXIntSmBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Avenir Next Condensed' (Avenir Next Condensed.ttc) normal normal 700 condensed>) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Ugaritic' (NotoSansUgaritic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Brush Script MT' (Brush Script.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.New York' (NewYork.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsUpD' (STIXIntUpDReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Apple Braille' (Apple Braille Pinpoint 8 Dot.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Kharoshthi' (NotoSansKharoshthi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Bangla Sangam MN' (Bangla Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.SF NS Mono' (SFNSMono.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Bodoni Ornaments' (Bodoni Ornaments.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Charter' (Charter.ttc) normal normal roman normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Chakma' (NotoSansChakma-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Bamum' (NotoSansBamum-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Lycian' (NotoSansLycian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Al Nile' (Al Nile.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Academy Engraved LET' (Academy Engraved LET Fonts.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Old Permic' (NotoSansOldPermic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Masaram Gondi' (NotoSansMasaramGondi-Regular.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Marion' (Marion.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsUp' (STIXIntUpBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Myanmar Sangam MN' (Myanmar Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kohinoor Telugu' (KohinoorTelugu.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Athelas' (Athelas.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Corsiva Hebrew' (Corsiva.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Cochin' (Cochin.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Miao' (NotoSansMiao-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Baskerville' (Baskerville.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lao MN' (Lao MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Old Turkic' (NotoSansOldTurkic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial' (Arial.ttf) normal normal 400 normal>) = 6.413636363636363
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'InaiMathi' (InaiMathi-MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Georgia' (Georgia Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Narrow' (Arial Narrow Bold Italic.ttf) italic normal 700 condensed>) = 11.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Apple Chancery' (Apple Chancery.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gujarati MT' (GujaratiMT.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Lydian' (NotoSansLydian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans GB' (Hiragino Sans GB.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Samaritan' (NotoSansSamaritan-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ayuthaya' (Ayuthaya.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsUpD' (STIXIntUpDBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Narrow' (Arial Narrow Bold.ttf) normal normal 700 condensed>) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Trebuchet MS' (Trebuchet MS Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Devanagari MT' (DevanagariMT.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Saurashtra' (NotoSansSaurashtra-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Mshtakan' (Mshtakan.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial' (Arial Bold.ttf) normal normal 700 normal>) = 6.698636363636363
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.otf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Khojki' (NotoSansKhojki-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kohinoor Bangla' (KohinoorBangla.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W3.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Ol Chiki' (NotoSansOlChiki-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Newa' (NotoSansNewa-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Serif Balinese' (NotoSerifBalinese-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Mongolian' (NotoSansMongolian-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Trebuchet MS' (Trebuchet MS.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Diwan Kufi' (Diwan Kufi.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Malayalam MN' (Malayalam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Papyrus' (Papyrus.ttc) normal normal 400 condensed>) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Myanmar MN' (Myanmar MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lucida Grande' (LucidaGrande.ttc) normal normal 400 normal>) = 2.777272727272727
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hoefler Text' (Hoefler Text.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Old Persian' (NotoSansOldPersian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Avenir' (Avenir.ttc) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.SF Compact' (SFCompact.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Adlam' (NotoSansAdlam-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Thonburi' (Thonburi.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Nabataean' (NotoSansNabataean-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Old Hungarian' (NotoSansOldHungarian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rockwell' (Rockwell.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Telugu Sangam MN' (Telugu Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Krungthep' (Krungthep.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Seravek' (Seravek.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DecoType Naskh' (DecoTypeNaskh.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Hanifi Rohingya' (NotoSansHanifiRohingya-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Georgia' (Georgia.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'PT Serif Caption' (PTSerifCaption.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Chalkboard' (Chalkboard.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.SF Compact' (SFCompactItalic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Narrow' (Arial Narrow Italic.ttf) italic normal 400 condensed>) = 11.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nadeem' (Nadeem.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Zapfino' (Zapfino.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Pahawh Hmong' (NotoSansPahawhHmong-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Malayalam Sangam MN' (Malayalam Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Bodoni 72 Smallcaps' (Bodoni 72 Smallcaps Book.ttf) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Devanagari Sangam MN' (Devanagari Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sathu' (Sathu.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Courier New' (Courier New Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kohinoor Devanagari' (Kohinoor.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'AppleMyungjo' (AppleMyungjo.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Inscriptional Pahlavi' (NotoSansInscriptionalPahlavi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Times New Roman' (Times New Roman Italic.ttf) italic normal roman normal>) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Mincho ProN' (ヒラギノ明朝 ProN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.LastResort' (LastResort.otf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.New York' (NewYorkItalic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Khmer Sangam MN' (Khmer Sangam MN.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Mishafi' (Mishafi.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Georgia' (Georgia Bold Italic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Times New Roman' (Times New Roman Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Beirut' (Beirut.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Sora Sompeng' (NotoSansSoraSompeng-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tamil MN' (Tamil MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Linear A' (NotoSansLinearA-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Oriya MN' (Oriya MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Thaana' (NotoSansThaana-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Meetei Mayek' (NotoSansMeeteiMayek-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Egyptian Hieroglyphs' (NotoSansEgyptianHieroglyphs-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W4.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans PhagsPa' (NotoSansPhagsPa-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Bodoni 72' (Bodoni 72.ttc) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Mukta Mahee' (MuktaMahee.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Javanese' (NotoSansJavanese-Regular.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Mishafi Gold' (Mishafi Gold.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Phosphate' (Phosphate.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Narrow' (Arial Narrow.ttf) normal normal 400 condensed>) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Trebuchet MS' (Trebuchet MS Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Mro' (NotoSansMro-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kohinoor Gujarati' (KohinoorGujarati.ttc) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W7.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Buginese' (NotoSansBuginese-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'New Peninim MT' (NewPeninimMT.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Hanunoo' (NotoSansHanunoo-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Old South Arabian' (NotoSansOldSouthArabian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gujarati Sangam MN' (Gujarati Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DIN Alternate' (DIN Alternate Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Verdana' (Verdana Bold Italic.ttf) italic normal 700 normal>) = 4.971363636363637
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Courier New' (Courier New Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Siddham' (NotoSansSiddham-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Tagalog' (NotoSansTagalog-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Linear B' (NotoSansLinearB-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Coptic' (NotoSansCoptic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Khudawadi' (NotoSansKhudawadi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Rounded MT Bold' (Arial Rounded Bold.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.Aqua Kana' (AquaKana.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Tagbanwa' (NotoSansTagbanwa-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Comic Sans MS' (Comic Sans MS Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Didot' (Didot.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kailasa' (Kailasa.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Telugu MN' (Telugu MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noteworthy' (Noteworthy.ttc) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Trebuchet MS' (Trebuchet MS Bold Italic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W2.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Caucasian Albanian' (NotoSansCaucasianAlbanian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Bradley Hand' (Bradley Hand Bold.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Marchen' (NotoSansMarchen-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Songti SC' (Songti.ttc) normal normal black normal>) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'PT Sans' (PTSans.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Unicode MS' (Arial Unicode.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXVariants' (STIXVar.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W1.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Pau Cin Hau' (NotoSansPauCinHau-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Limbu' (NotoSansLimbu-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Optima' (Optima.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Heiti TC' (STHeiti Medium.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Menlo' (Menlo.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Trattatello' (Trattatello.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans New Tai Lue' (NotoSansNewTaiLue-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tahoma' (Tahoma Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsSm' (STIXIntSmReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Helvetica' (Helvetica.ttc) normal normal 400 normal>) = 7.322727272727273
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Herculanum' (Herculanum.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Osmanya' (NotoSansOsmanya-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gurmukhi Sangam MN' (Gurmukhi Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Raanana' (Raanana.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.otf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DIN Condensed' (DIN Condensed Bold.ttf) normal normal 700 condensed>) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kefa' (Kefa.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Lepcha' (NotoSansLepcha-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.SF NS Rounded' (SFNSRounded.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Helvetica Neue' (HelveticaNeue.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneral.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'PingFang HK' (PingFang.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Plantagenet Cherokee' (PlantagenetCherokee.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Gunjala Gondi' (NotoSansGunjalaGondi-Regular.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Mahajani' (NotoSansMahajani-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Geneva' (Geneva.ttf) normal normal 400 normal>) = 4.595454545454545
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.SF Compact Rounded' (SFCompactRounded.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Sundanese' (NotoSansSundanese-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.otf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lao Sangam MN' (Lao Sangam MN.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsD' (STIXIntDBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Elbasan' (NotoSansElbasan-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Apple Braille' (Apple Braille.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Black' (Arial Black.ttf) normal normal black normal>) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Apple SD Gothic Neo' (AppleSDGothicNeo.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial' (Arial Italic.ttf) italic normal 400 normal>) = 7.413636363636363
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W0.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Impact' (Impact.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Party LET' (PartyLET-plain.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sinhala Sangam MN' (Sinhala Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Monaco' (Monaco.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Armenian' (NotoSansArmenian.ttc) normal normal black normal>) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Euphemia UCAS' (EuphemiaCAS.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Khmer MN' (Khmer MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Meroitic' (NotoSansMeroitic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gill Sans' (GillSans.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Glagolitic' (NotoSansGlagolitic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Serif Ahom' (NotoSerifAhom-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Maru Gothic Pro' (ヒラギノ丸ゴ ProN W4.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Modi' (NotoSansModi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Kaithi' (NotoSansKaithi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Batak' (NotoSansBatak-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsUpSm' (STIXIntUpSmReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Syloti Nagri' (NotoSansSylotiNagri-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Bodoni 72 Oldstyle' (Bodoni 72 OS.ttc) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Cham' (NotoSansCham-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Silom' (Silom.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXVariants' (STIXVarBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Wingdings 3' (Wingdings 3.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hoefler Text' (Hoefler Text Ornaments.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Osage' (NotoSansOsage-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Tai Viet' (NotoSansTaiViet-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Serif Yezidi' (NotoSerifYezidi-Regular.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Kannada' (NotoSansKannada.ttc) normal normal black normal>) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Carian' (NotoSansCarian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Savoye LET' (Savoye LET.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W5.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'PT Mono' (PTMono.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kannada MN' (Kannada MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Courier New' (Courier New Bold Italic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Georgia' (Georgia Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/raghavaggarwal/opt/anaconda3/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0.
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Al Bayan' (AlBayan.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Waseem' (Waseem.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Verdana' (Verdana Bold.ttf) normal normal 700 normal>) = 3.9713636363636367
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W8.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Baghdad' (Baghdad.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.SF Arabic' (SFArabic.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Verdana' (Verdana Italic.ttf) italic normal 400 normal>) = 4.6863636363636365
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsD' (STIXIntDReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Hatran' (NotoSansHatran-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Apple Symbols' (Apple Symbols.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Apple Braille' (Apple Braille Pinpoint 6 Dot.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Cuneiform' (NotoSansCuneiform-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Mandaic' (NotoSansMandaic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Zapf Dingbats' (ZapfDingbats.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans NKo' (NotoSansNKo-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Heiti TC' (STHeiti Light.ttc) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.SF NS Mono' (SFNSMonoItalic.ttf) italic normal light normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Wingdings 2' (Wingdings 2.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Farah' (Farah.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.Keyboard' (Keyboard.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Times New Roman' (Times New Roman Bold Italic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Verdana' (Verdana.ttf) normal normal 400 normal>) = 3.6863636363636365
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Nastaliq Urdu' (NotoNastaliq.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Superclarendon' (SuperClarendon.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'ITF Devanagari' (ITFDevanagari.ttc) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'AppleGothic' (AppleGothic.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Palmyrene' (NotoSansPalmyrene-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Tai Tham' (NotoSansTaiTham-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Multani' (NotoSansMultani-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Snell Roundhand' (SnellRoundhand.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Old North Arabian' (NotoSansOldNorthArabian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Manichaean' (NotoSansManichaean-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Gothic' (NotoSansGothic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Yi' (NotoSansYi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Warang Citi' (NotoSansWarangCiti-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Comic Sans MS' (Comic Sans MS.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Serif Myanmar' (NotoSerifMyanmar.ttc) normal normal black normal>) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Diwan Thuluth' (Diwan Thuluth.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Apple Braille' (Apple Braille Outline 8 Dot.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Galvji' (Galvji.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Andale Mono' (Andale Mono.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Farisi' (Farisi.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kannada Sangam MN' (Kannada Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Buhid' (NotoSansBuhid-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Avenir Next' (Avenir Next.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial' (Arial Bold Italic.ttf) italic normal 700 normal>) = 7.698636363636363
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sinhala MN' (Sinhala MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Times' (Times.ttc) normal normal roman normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Wingdings' (Wingdings.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Marker Felt' (MarkerFelt.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Damascus' (Damascus.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Lisu' (NotoSansLisu-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'System Font' (SFNSItalic.ttf) italic normal regular normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gurmukhi MT' (Gurmukhi.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.otf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'SignPainter' (SignPainter.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsUp' (STIXIntUpReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsUpSm' (STIXIntUpSmBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KufiStandardGK' (KufiStandardGK.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Tifinagh' (NotoSansTifinagh-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Apple Braille' (Apple Braille Outline 6 Dot.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Kayah Li' (NotoSansKayahLi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Vai' (NotoSansVai-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Syriac' (NotoSansSyriac-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Tai Le' (NotoSansTaiLe-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Wancho' (NotoSansWancho-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Bhaiksuki' (NotoSansBhaiksuki-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Luminari' (Luminari.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Shree Devanagari 714' (Shree714.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Symbol' (Symbol.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Phoenician' (NotoSansPhoenician-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sana' (Sana.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Skia' (Skia.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Muna' (Muna.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Psalter Pahlavi' (NotoSansPsalterPahlavi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'System Font' (SFNS.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Brahmi' (NotoSansBrahmi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Chalkduster' (Chalkduster.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Old Italic' (NotoSansOldItalic-Regular.ttf) italic normal regular normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Takri' (NotoSansTakri-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Iowan Old Style' (Iowan Old Style.ttc) normal normal roman normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Chalkboard SE' (ChalkboardSE.ttc) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Unicode MS' (Arial Unicode.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Oriya Sangam MN' (Oriya Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Big Caslon' (BigCaslon.ttf) normal normal medium normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Hebrew' (ArialHB.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Bangla MN' (Bangla MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Avestan' (NotoSansAvestan-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kokonor' (Kokonor.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W9.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Courier' (Courier.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Futura' (Futura.ttc) normal normal medium normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W6.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Mende Kikakui' (NotoSansMendeKikakui-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Tirhuta' (NotoSansTirhuta-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Duployan' (NotoSansDuployan-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gurmukhi MN' (Gurmukhi MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Webdings' (Webdings.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Copperplate' (Copperplate.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tahoma' (Tahoma.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Microsoft Sans Serif' (Microsoft Sans Serif.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Courier New' (Courier New.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'PT Serif' (PTSerif.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Rejang' (NotoSansRejang-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Oriya' (NotoSansOriya.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Bassa Vah' (NotoSansBassaVah-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Cypriot' (NotoSansCypriot-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Imperial Aramaic' (NotoSansImperialAramaic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Times New Roman' (Times New Roman.ttf) normal normal roman normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tamil Sangam MN' (Tamil Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sukhumvit Set' (SukhumvitSet.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'American Typewriter' (AmericanTypewriter.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Inscriptional Parthian' (NotoSansInscriptionalParthian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Al Tarikh' (Al Tarikh.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Myanmar' (NotoSansMyanmar.ttc) normal normal black normal>) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Geeza Pro' (GeezaPro.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Palatino' (Palatino.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Sharada' (NotoSansSharada-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsSm' (STIXIntSmBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Avenir Next Condensed' (Avenir Next Condensed.ttc) normal normal 700 condensed>) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Ugaritic' (NotoSansUgaritic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Brush Script MT' (Brush Script.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.New York' (NewYork.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsUpD' (STIXIntUpDReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Apple Braille' (Apple Braille Pinpoint 8 Dot.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Kharoshthi' (NotoSansKharoshthi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Bangla Sangam MN' (Bangla Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.SF NS Mono' (SFNSMono.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Bodoni Ornaments' (Bodoni Ornaments.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Charter' (Charter.ttc) normal normal roman normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Chakma' (NotoSansChakma-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Bamum' (NotoSansBamum-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Lycian' (NotoSansLycian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Al Nile' (Al Nile.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Academy Engraved LET' (Academy Engraved LET Fonts.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Old Permic' (NotoSansOldPermic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Masaram Gondi' (NotoSansMasaramGondi-Regular.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Marion' (Marion.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsUp' (STIXIntUpBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Myanmar Sangam MN' (Myanmar Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kohinoor Telugu' (KohinoorTelugu.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Athelas' (Athelas.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Corsiva Hebrew' (Corsiva.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Cochin' (Cochin.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Miao' (NotoSansMiao-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Baskerville' (Baskerville.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lao MN' (Lao MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Old Turkic' (NotoSansOldTurkic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial' (Arial.ttf) normal normal 400 normal>) = 6.413636363636363
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'InaiMathi' (InaiMathi-MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Georgia' (Georgia Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Narrow' (Arial Narrow Bold Italic.ttf) italic normal 700 condensed>) = 11.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Apple Chancery' (Apple Chancery.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gujarati MT' (GujaratiMT.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Lydian' (NotoSansLydian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans GB' (Hiragino Sans GB.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Samaritan' (NotoSansSamaritan-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ayuthaya' (Ayuthaya.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsUpD' (STIXIntUpDBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Narrow' (Arial Narrow Bold.ttf) normal normal 700 condensed>) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Trebuchet MS' (Trebuchet MS Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Devanagari MT' (DevanagariMT.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Saurashtra' (NotoSansSaurashtra-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Mshtakan' (Mshtakan.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial' (Arial Bold.ttf) normal normal 700 normal>) = 6.698636363636363
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.otf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Khojki' (NotoSansKhojki-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kohinoor Bangla' (KohinoorBangla.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W3.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Ol Chiki' (NotoSansOlChiki-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Newa' (NotoSansNewa-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Serif Balinese' (NotoSerifBalinese-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Mongolian' (NotoSansMongolian-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Trebuchet MS' (Trebuchet MS.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Diwan Kufi' (Diwan Kufi.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Malayalam MN' (Malayalam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Papyrus' (Papyrus.ttc) normal normal 400 condensed>) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Myanmar MN' (Myanmar MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lucida Grande' (LucidaGrande.ttc) normal normal 400 normal>) = 2.777272727272727
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hoefler Text' (Hoefler Text.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Old Persian' (NotoSansOldPersian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Avenir' (Avenir.ttc) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.SF Compact' (SFCompact.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Adlam' (NotoSansAdlam-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Thonburi' (Thonburi.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Nabataean' (NotoSansNabataean-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Old Hungarian' (NotoSansOldHungarian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rockwell' (Rockwell.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Telugu Sangam MN' (Telugu Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Krungthep' (Krungthep.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Seravek' (Seravek.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DecoType Naskh' (DecoTypeNaskh.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Hanifi Rohingya' (NotoSansHanifiRohingya-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Georgia' (Georgia.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'PT Serif Caption' (PTSerifCaption.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Chalkboard' (Chalkboard.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.SF Compact' (SFCompactItalic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Narrow' (Arial Narrow Italic.ttf) italic normal 400 condensed>) = 11.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nadeem' (Nadeem.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Zapfino' (Zapfino.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Pahawh Hmong' (NotoSansPahawhHmong-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Malayalam Sangam MN' (Malayalam Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Bodoni 72 Smallcaps' (Bodoni 72 Smallcaps Book.ttf) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Devanagari Sangam MN' (Devanagari Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sathu' (Sathu.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Courier New' (Courier New Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kohinoor Devanagari' (Kohinoor.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'AppleMyungjo' (AppleMyungjo.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Inscriptional Pahlavi' (NotoSansInscriptionalPahlavi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Times New Roman' (Times New Roman Italic.ttf) italic normal roman normal>) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Mincho ProN' (ヒラギノ明朝 ProN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.LastResort' (LastResort.otf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.New York' (NewYorkItalic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Khmer Sangam MN' (Khmer Sangam MN.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Mishafi' (Mishafi.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Georgia' (Georgia Bold Italic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Times New Roman' (Times New Roman Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Beirut' (Beirut.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Sora Sompeng' (NotoSansSoraSompeng-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tamil MN' (Tamil MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Linear A' (NotoSansLinearA-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Oriya MN' (Oriya MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Thaana' (NotoSansThaana-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Meetei Mayek' (NotoSansMeeteiMayek-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Egyptian Hieroglyphs' (NotoSansEgyptianHieroglyphs-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W4.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans PhagsPa' (NotoSansPhagsPa-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Bodoni 72' (Bodoni 72.ttc) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Mukta Mahee' (MuktaMahee.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Javanese' (NotoSansJavanese-Regular.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Mishafi Gold' (Mishafi Gold.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Phosphate' (Phosphate.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Narrow' (Arial Narrow.ttf) normal normal 400 condensed>) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Trebuchet MS' (Trebuchet MS Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Mro' (NotoSansMro-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kohinoor Gujarati' (KohinoorGujarati.ttc) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W7.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Buginese' (NotoSansBuginese-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'New Peninim MT' (NewPeninimMT.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Hanunoo' (NotoSansHanunoo-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Old South Arabian' (NotoSansOldSouthArabian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gujarati Sangam MN' (Gujarati Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DIN Alternate' (DIN Alternate Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Verdana' (Verdana Bold Italic.ttf) italic normal 700 normal>) = 4.971363636363637
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Courier New' (Courier New Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Siddham' (NotoSansSiddham-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Tagalog' (NotoSansTagalog-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Linear B' (NotoSansLinearB-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Coptic' (NotoSansCoptic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Khudawadi' (NotoSansKhudawadi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Rounded MT Bold' (Arial Rounded Bold.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.Aqua Kana' (AquaKana.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Tagbanwa' (NotoSansTagbanwa-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Comic Sans MS' (Comic Sans MS Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Didot' (Didot.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kailasa' (Kailasa.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Telugu MN' (Telugu MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noteworthy' (Noteworthy.ttc) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Trebuchet MS' (Trebuchet MS Bold Italic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W2.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Caucasian Albanian' (NotoSansCaucasianAlbanian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Bradley Hand' (Bradley Hand Bold.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Marchen' (NotoSansMarchen-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Songti SC' (Songti.ttc) normal normal black normal>) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'PT Sans' (PTSans.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Unicode MS' (Arial Unicode.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXVariants' (STIXVar.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W1.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Pau Cin Hau' (NotoSansPauCinHau-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Limbu' (NotoSansLimbu-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Optima' (Optima.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Heiti TC' (STHeiti Medium.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Menlo' (Menlo.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Trattatello' (Trattatello.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans New Tai Lue' (NotoSansNewTaiLue-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tahoma' (Tahoma Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsSm' (STIXIntSmReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Helvetica' (Helvetica.ttc) normal normal 400 normal>) = 7.322727272727273
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Herculanum' (Herculanum.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Osmanya' (NotoSansOsmanya-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gurmukhi Sangam MN' (Gurmukhi Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Raanana' (Raanana.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.otf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DIN Condensed' (DIN Condensed Bold.ttf) normal normal 700 condensed>) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kefa' (Kefa.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Lepcha' (NotoSansLepcha-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.SF NS Rounded' (SFNSRounded.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Helvetica Neue' (HelveticaNeue.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneral.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'PingFang HK' (PingFang.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Plantagenet Cherokee' (PlantagenetCherokee.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Gunjala Gondi' (NotoSansGunjalaGondi-Regular.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Mahajani' (NotoSansMahajani-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Geneva' (Geneva.ttf) normal normal 400 normal>) = 4.595454545454545
+DEBUG:matplotlib.font_manager:findfont: score(<Font '.SF Compact Rounded' (SFCompactRounded.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Sundanese' (NotoSansSundanese-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.otf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lao Sangam MN' (Lao Sangam MN.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsD' (STIXIntDBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Elbasan' (NotoSansElbasan-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Apple Braille' (Apple Braille.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial Black' (Arial Black.ttf) normal normal black normal>) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Apple SD Gothic Neo' (AppleSDGothicNeo.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial' (Arial Italic.ttf) italic normal 400 normal>) = 7.413636363636363
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W0.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Impact' (Impact.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Party LET' (PartyLET-plain.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sinhala Sangam MN' (Sinhala Sangam MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Monaco' (Monaco.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Armenian' (NotoSansArmenian.ttc) normal normal black normal>) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Euphemia UCAS' (EuphemiaCAS.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Khmer MN' (Khmer MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Meroitic' (NotoSansMeroitic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gill Sans' (GillSans.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Glagolitic' (NotoSansGlagolitic-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Serif Ahom' (NotoSerifAhom-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Maru Gothic Pro' (ヒラギノ丸ゴ ProN W4.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Modi' (NotoSansModi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Kaithi' (NotoSansKaithi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Batak' (NotoSansBatak-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXIntegralsUpSm' (STIXIntUpSmReg.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Syloti Nagri' (NotoSansSylotiNagri-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Bodoni 72 Oldstyle' (Bodoni 72 OS.ttc) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Cham' (NotoSansCham-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Silom' (Silom.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXVariants' (STIXVarBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Wingdings 3' (Wingdings 3.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hoefler Text' (Hoefler Text Ornaments.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Osage' (NotoSansOsage-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Tai Viet' (NotoSansTaiViet-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Serif Yezidi' (NotoSerifYezidi-Regular.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Kannada' (NotoSansKannada.ttc) normal normal black normal>) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans Carian' (NotoSansCarian-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Savoye LET' (Savoye LET.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W5.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'PT Mono' (PTMono.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kannada MN' (Kannada MN.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Courier New' (Courier New Bold Italic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Georgia' (Georgia Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/Users/raghavaggarwal/opt/anaconda3/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:parso.cache:pickle loaded: /Users/raghavaggarwal/opt/anaconda3/lib/python3.7/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+DEBUG:parso.cache:pickle loaded: /Users/raghavaggarwal/opt/anaconda3/lib/python3.7/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+DEBUG:root:2020-12-10-2020-12-10, Buy EXECUTED 269.65
+DEBUG:root:2020-12-16-2020-12-16, Sell EXECUTED 269.45
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.0
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.2
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.45
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 269.3
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.7
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.35
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.0
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.8
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.8
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.85
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.05
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.05
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 271.4
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 271.15
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.85
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.6
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 271.1
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.75
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 269.85
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 269.8
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.1
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.4
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 269.0
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.35
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 267.65
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 267.7
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 267.9
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 267.0
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 265.05
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.15
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.05
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.1
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.1
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.4
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.65
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.4
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.1
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.3
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.55
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.0
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.45
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.65
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 267.2
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.9
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 267.2
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 268.45
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 269.6
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 270.6
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 270.6
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 271.5
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 268.45
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.5
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 267.25
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 267.8
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 267.45
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 267.4
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 267.05
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.65
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.15
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.65
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.6
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.9
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.8
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.7
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.0
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 264.6
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 263.85
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 263.6
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 261.15
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 259.25
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 259.2
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 255.6
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 255.55
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 252.0
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 255.35
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 254.8
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.75
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 250.6
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 249.8
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 251.7
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 254.0
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.5
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.45
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.3
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.9
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.05
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.2
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.1
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.35
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.35
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.85
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.3
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 254.8
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 256.75
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 256.7
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 257.3
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 257.75
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 258.0
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 257.0
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 257.6
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 256.95
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 257.15
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 257.4
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 259.75
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 259.2
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 260.8
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 261.6
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 261.75
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 261.65
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 260.7
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 260.95
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.0
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 261.95
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.3
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 263.35
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 263.0
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.45
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.45
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 263.25
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 263.0
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.95
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.55
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.55
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.35
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 263.0
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 265.0
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.3
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.3
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.1
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.3
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.8
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.65
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.2
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 265.6
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.95
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 268.15
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.75
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 268.0
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.55
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.95
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.65
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.7
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 268.0
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.75
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 268.05
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.95
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.65
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 268.2
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.35
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.85
+DEBUG:root:2020-12-28-2020-12-28, Sell EXECUTED 268.75
+DEBUG:root:2020-12-28-2020-12-28, Sell EXECUTED 271.0
+DEBUG:root:2020-12-28-2020-12-28, Sell EXECUTED 271.1
+DEBUG:root:2020-12-28-2020-12-28, Sell EXECUTED 271.35
+DEBUG:root:2020-12-28-2020-12-28, Sell EXECUTED 270.5
+DEBUG:root:2017-11-22-2017-11-22, Buy EXECUTED 322.79
+DEBUG:root:2018-03-13-2018-03-13, Sell EXECUTED 245.17
+DEBUG:root:2018-03-14-2018-03-14, Sell EXECUTED 246.35
+DEBUG:root:2018-03-15-2018-03-15, Sell EXECUTED 250.74
+DEBUG:root:2018-03-16-2018-03-16, Sell EXECUTED 244.54
+DEBUG:root:2018-03-19-2018-03-19, Sell EXECUTED 246.74
+DEBUG:root:2018-03-20-2018-03-20, Sell EXECUTED 240.83
+DEBUG:root:2018-03-21-2018-03-21, Sell EXECUTED 245.61
+DEBUG:root:2018-03-22-2018-03-22, Sell EXECUTED 240.98
+DEBUG:root:2018-03-23-2018-03-23, Sell EXECUTED 232.0
+DEBUG:root:2018-03-26-2018-03-26, Sell EXECUTED 229.03
+DEBUG:root:2018-03-27-2018-03-27, Sell EXECUTED 243.91
+DEBUG:root:2018-03-28-2018-03-28, Sell EXECUTED 245.86
+DEBUG:root:2018-04-02-2018-04-02, Sell EXECUTED 245.66
+DEBUG:root:2018-04-03-2018-04-03, Sell EXECUTED 243.47
+DEBUG:root:2018-04-04-2018-04-04, Sell EXECUTED 245.57
+DEBUG:root:2018-04-05-2018-04-05, Sell EXECUTED 246.44
+DEBUG:root:2018-04-06-2018-04-06, Sell EXECUTED 253.32
+DEBUG:root:2018-04-09-2018-04-09, Sell EXECUTED 254.3
+DEBUG:root:2018-04-10-2018-04-10, Sell EXECUTED 254.74
+DEBUG:root:2018-04-11-2018-04-11, Sell EXECUTED 256.59
+DEBUG:root:2018-04-12-2018-04-12, Sell EXECUTED 251.22
+DEBUG:root:2018-04-13-2018-04-13, Sell EXECUTED 247.81
+DEBUG:root:2018-04-16-2018-04-16, Sell EXECUTED 243.27
+DEBUG:root:2018-04-17-2018-04-17, Sell EXECUTED 245.27
+DEBUG:root:2018-04-18-2018-04-18, Sell EXECUTED 243.42
+DEBUG:root:2018-04-19-2018-04-19, Sell EXECUTED 241.08
+DEBUG:root:2018-04-20-2018-04-20, Sell EXECUTED 239.86
+DEBUG:root:2018-04-23-2018-04-23, Sell EXECUTED 236.0
+DEBUG:root:2018-04-24-2018-04-24, Sell EXECUTED 236.1
+DEBUG:root:2018-04-25-2018-04-25, Sell EXECUTED 233.86
+DEBUG:root:2018-04-26-2018-04-26, Sell EXECUTED 232.59
+DEBUG:root:2018-04-27-2018-04-27, Sell EXECUTED 227.56
+DEBUG:root:2018-04-30-2018-04-30, Sell EXECUTED 238.83
+DEBUG:root:2018-05-02-2018-05-02, Sell EXECUTED 239.91
+DEBUG:root:2018-05-03-2018-05-03, Sell EXECUTED 235.08
+DEBUG:root:2018-05-04-2018-05-04, Sell EXECUTED 237.56
+DEBUG:root:2018-05-07-2018-05-07, Sell EXECUTED 236.54
+DEBUG:root:2018-05-08-2018-05-08, Sell EXECUTED 241.96
+DEBUG:root:2018-05-09-2018-05-09, Sell EXECUTED 243.71
+DEBUG:root:2018-05-10-2018-05-10, Sell EXECUTED 242.2
+DEBUG:root:2018-05-11-2018-05-11, Sell EXECUTED 241.57
+DEBUG:root:2018-05-14-2018-05-14, Sell EXECUTED 243.86
+DEBUG:root:2018-05-15-2018-05-15, Sell EXECUTED 246.83
+DEBUG:root:2018-05-16-2018-05-16, Sell EXECUTED 239.52
+DEBUG:root:2018-05-17-2018-05-17, Sell EXECUTED 238.25
+DEBUG:root:2018-05-18-2018-05-18, Sell EXECUTED 237.08
+DEBUG:root:2018-05-21-2018-05-21, Sell EXECUTED 237.61
+DEBUG:root:2018-05-22-2018-05-22, Sell EXECUTED 237.71
+DEBUG:root:2018-05-23-2018-05-23, Sell EXECUTED 248.44
+DEBUG:root:2018-05-24-2018-05-24, Sell EXECUTED 257.42
+DEBUG:root:2018-05-25-2018-05-25, Sell EXECUTED 261.27
+DEBUG:root:2018-05-28-2018-05-28, Sell EXECUTED 260.88
+DEBUG:root:2018-05-29-2018-05-29, Sell EXECUTED 263.91
+DEBUG:root:2018-05-30-2018-05-30, Sell EXECUTED 254.15
+DEBUG:root:2018-05-31-2018-05-31, Sell EXECUTED 260.35
+DEBUG:root:2018-06-01-2018-06-01, Sell EXECUTED 262.69
+DEBUG:root:2018-06-04-2018-06-04, Sell EXECUTED 261.47
+DEBUG:root:2018-06-05-2018-06-05, Sell EXECUTED 254.54
+DEBUG:root:2018-06-06-2018-06-06, Sell EXECUTED 256.59
+DEBUG:root:2018-06-07-2018-06-07, Sell EXECUTED 264.44
+DEBUG:root:2018-06-08-2018-06-08, Sell EXECUTED 262.39
+DEBUG:root:2018-06-11-2018-06-11, Sell EXECUTED 266.64
+DEBUG:root:2018-06-12-2018-06-12, Sell EXECUTED 267.32
+DEBUG:root:2018-06-13-2018-06-13, Sell EXECUTED 277.08
+DEBUG:root:2018-06-14-2018-06-14, Sell EXECUTED 279.57
+DEBUG:root:2018-06-15-2018-06-15, Sell EXECUTED 275.86
+DEBUG:root:2018-06-18-2018-06-18, Sell EXECUTED 271.22
+DEBUG:root:2018-06-19-2018-06-19, Sell EXECUTED 269.27
+DEBUG:root:2018-06-20-2018-06-20, Sell EXECUTED 266.54
+DEBUG:root:2018-06-21-2018-06-21, Sell EXECUTED 268.05
+DEBUG:root:2018-06-22-2018-06-22, Sell EXECUTED 262.44
+DEBUG:root:2018-06-25-2018-06-25, Sell EXECUTED 265.22
+DEBUG:root:2018-06-26-2018-06-26, Sell EXECUTED 260.74
+DEBUG:root:2018-06-27-2018-06-27, Sell EXECUTED 260.83
+DEBUG:root:2018-06-28-2018-06-28, Sell EXECUTED 254.05
+DEBUG:root:2018-06-29-2018-06-29, Sell EXECUTED 251.96
+DEBUG:root:2018-07-02-2018-07-02, Sell EXECUTED 252.64
+DEBUG:root:2018-07-03-2018-07-03, Sell EXECUTED 253.27
+DEBUG:root:2018-07-04-2018-07-04, Sell EXECUTED 249.52
+DEBUG:root:2018-07-05-2018-07-05, Sell EXECUTED 251.61
+DEBUG:root:2018-07-06-2018-07-06, Sell EXECUTED 249.86
+DEBUG:root:2018-07-09-2018-07-09, Sell EXECUTED 251.91
+DEBUG:root:2018-07-10-2018-07-10, Sell EXECUTED 257.42
+DEBUG:root:2018-07-11-2018-07-11, Sell EXECUTED 256.25
+DEBUG:root:2018-07-12-2018-07-12, Sell EXECUTED 255.03
+DEBUG:root:2018-07-13-2018-07-13, Sell EXECUTED 255.71
+DEBUG:root:2018-07-16-2018-07-16, Sell EXECUTED 250.74
+DEBUG:root:2018-07-17-2018-07-17, Sell EXECUTED 244.59
+DEBUG:root:2018-07-18-2018-07-18, Sell EXECUTED 253.76
+DEBUG:root:2018-07-19-2018-07-19, Sell EXECUTED 253.08
+DEBUG:root:2018-07-20-2018-07-20, Sell EXECUTED 253.57
+DEBUG:root:2018-07-23-2018-07-23, Sell EXECUTED 255.61
+DEBUG:root:2018-07-24-2018-07-24, Sell EXECUTED 260.69
+DEBUG:root:2018-07-25-2018-07-25, Sell EXECUTED 261.47
+DEBUG:root:2018-07-26-2018-07-26, Sell EXECUTED 268.39
+DEBUG:root:2018-07-27-2018-07-27, Sell EXECUTED 282.44
+DEBUG:root:2018-07-30-2018-07-30, Sell EXECUTED 282.15
+DEBUG:root:2018-07-31-2018-07-31, Sell EXECUTED 289.76
+DEBUG:root:2018-08-01-2018-08-01, Sell EXECUTED 287.32
+DEBUG:root:2018-08-02-2018-08-02, Sell EXECUTED 285.86
+DEBUG:root:2018-08-03-2018-08-03, Sell EXECUTED 287.42
+DEBUG:root:2018-08-06-2018-08-06, Sell EXECUTED 293.27
+DEBUG:root:2018-08-07-2018-08-07, Sell EXECUTED 302.3
+DEBUG:root:2018-08-08-2018-08-08, Sell EXECUTED 296.64
+DEBUG:root:2018-08-09-2018-08-09, Sell EXECUTED 305.32
+DEBUG:root:2018-08-10-2018-08-10, Sell EXECUTED 309.91
+DEBUG:root:2018-08-13-2018-08-13, Sell EXECUTED 288.79
+DEBUG:root:2018-08-14-2018-08-14, Sell EXECUTED 289.47
+DEBUG:root:2018-08-16-2018-08-16, Sell EXECUTED 286.35
+DEBUG:root:2018-08-17-2018-08-17, Sell EXECUTED 287.81
+DEBUG:root:2018-08-20-2018-08-20, Sell EXECUTED 296.69
+DEBUG:root:2018-08-21-2018-08-21, Sell EXECUTED 300.79
+DEBUG:root:2018-08-23-2018-08-23, Sell EXECUTED 299.47
+DEBUG:root:2018-08-24-2018-08-24, Sell EXECUTED 293.27
+DEBUG:root:2018-08-27-2018-08-27, Sell EXECUTED 296.59
+DEBUG:root:2018-08-28-2018-08-28, Sell EXECUTED 300.54
+DEBUG:root:2018-08-29-2018-08-29, Sell EXECUTED 299.32
+DEBUG:root:2018-08-30-2018-08-30, Sell EXECUTED 301.76
+DEBUG:root:2018-08-31-2018-08-31, Sell EXECUTED 300.4
+DEBUG:root:2019-09-23-2019-09-23, Sell EXECUTED 300.05
+DEBUG:root:2019-09-24-2019-09-24, Sell EXECUTED 305.52
+DEBUG:root:2019-09-25-2019-09-25, Sell EXECUTED 289.76
+DEBUG:root:2019-09-26-2019-09-26, Sell EXECUTED 274.64
+DEBUG:root:2019-09-27-2019-09-27, Sell EXECUTED 275.81
+DEBUG:root:2019-09-30-2019-09-30, Sell EXECUTED 274.54
+DEBUG:root:2019-10-01-2019-10-01, Sell EXECUTED 266.1
+DEBUG:root:2019-10-03-2019-10-03, Sell EXECUTED 247.81
+DEBUG:root:2019-10-04-2019-10-04, Sell EXECUTED 252.2
+DEBUG:root:2019-10-07-2019-10-07, Sell EXECUTED 245.37
+DEBUG:root:2019-10-09-2019-10-09, Sell EXECUTED 244.0
+DEBUG:root:2019-10-10-2019-10-10, Sell EXECUTED 251.71
+DEBUG:root:2019-10-11-2019-10-11, Sell EXECUTED 249.96
+DEBUG:root:2019-10-14-2019-10-14, Sell EXECUTED 250.69
+DEBUG:root:2019-10-15-2019-10-15, Sell EXECUTED 250.2
+DEBUG:root:2019-10-16-2019-10-16, Sell EXECUTED 252.98
+DEBUG:root:2019-10-17-2019-10-17, Sell EXECUTED 250.15
+DEBUG:root:2019-10-18-2019-10-18, Sell EXECUTED 257.96
+DEBUG:root:2019-10-22-2019-10-22, Sell EXECUTED 263.81
+DEBUG:root:2019-10-23-2019-10-23, Sell EXECUTED 264.15
+DEBUG:root:2019-10-24-2019-10-24, Sell EXECUTED 269.27
+DEBUG:root:2019-10-25-2019-10-25, Sell EXECUTED 259.32
+DEBUG:root:2019-10-27-2019-10-27, Sell EXECUTED 278.0
+DEBUG:root:2019-10-29-2019-10-29, Sell EXECUTED 276.25
+DEBUG:root:2019-10-30-2019-10-30, Sell EXECUTED 276.1
+DEBUG:root:2019-10-31-2019-10-31, Sell EXECUTED 286.2
+DEBUG:root:2019-11-01-2019-11-01, Sell EXECUTED 304.79
+DEBUG:root:2019-11-04-2019-11-04, Sell EXECUTED 308.3
+DEBUG:root:2019-11-05-2019-11-05, Sell EXECUTED 306.25
+DEBUG:root:2019-11-06-2019-11-06, Sell EXECUTED 311.18
+DEBUG:root:2019-11-07-2019-11-07, Sell EXECUTED 310.49
+DEBUG:root:2019-11-08-2019-11-08, Sell EXECUTED 308.49
+DEBUG:root:2019-11-11-2019-11-11, Sell EXECUTED 307.03
+DEBUG:root:2019-11-13-2019-11-13, Sell EXECUTED 308.35
+DEBUG:root:2019-11-14-2019-11-14, Sell EXECUTED 299.47
+DEBUG:root:2019-11-15-2019-11-15, Sell EXECUTED 304.4
+DEBUG:root:2019-11-18-2019-11-18, Sell EXECUTED 316.1
+DEBUG:root:2019-11-19-2019-11-19, Sell EXECUTED 317.86
+DEBUG:root:2019-11-20-2019-11-20, Sell EXECUTED 323.91
+DEBUG:root:2019-11-21-2019-11-21, Sell EXECUTED 321.22
+DEBUG:root:2019-11-22-2019-11-22, Sell EXECUTED 323.37
+DEBUG:root:2019-11-25-2019-11-25, Sell EXECUTED 320.98
+DEBUG:root:2019-11-26-2019-11-26, Sell EXECUTED 329.76
+DEBUG:root:2019-11-27-2019-11-27, Sell EXECUTED 327.76
+DEBUG:root:2019-11-28-2019-11-28, Sell EXECUTED 338.4
+DEBUG:root:2019-11-29-2019-11-29, Sell EXECUTED 340.35
+DEBUG:root:2019-12-02-2019-12-02, Sell EXECUTED 335.52
+DEBUG:root:2019-12-03-2019-12-03, Sell EXECUTED 332.69
+DEBUG:root:2019-12-04-2019-12-04, Sell EXECUTED 325.96
+DEBUG:root:2019-12-05-2019-12-05, Sell EXECUTED 334.64
+DEBUG:root:2019-12-06-2019-12-06, Sell EXECUTED 328.49
+DEBUG:root:2019-12-09-2019-12-09, Sell EXECUTED 311.18
+DEBUG:root:2019-12-10-2019-12-10, Sell EXECUTED 309.47
+DEBUG:root:2019-12-11-2019-12-11, Sell EXECUTED 303.61
+DEBUG:root:2019-12-12-2019-12-12, Sell EXECUTED 306.35
+DEBUG:root:2019-12-13-2019-12-13, Sell EXECUTED 317.27
+DEBUG:root:2019-12-16-2019-12-16, Sell EXECUTED 327.76
+DEBUG:root:2019-12-17-2019-12-17, Sell EXECUTED 325.13
+DEBUG:root:2019-12-18-2019-12-18, Sell EXECUTED 326.83
+DEBUG:root:2019-12-19-2019-12-19, Sell EXECUTED 319.37
+DEBUG:root:2019-12-20-2019-12-20, Sell EXECUTED 322.3
+DEBUG:root:2019-12-23-2019-12-23, Sell EXECUTED 327.52
+DEBUG:root:2019-12-24-2019-12-24, Sell EXECUTED 325.08
+DEBUG:root:2017-11-22-2017-11-22, Buy EXECUTED 322.79
+DEBUG:root:2018-03-13-2018-03-13, Sell EXECUTED 245.17
+DEBUG:root:2018-03-14-2018-03-14, Sell EXECUTED 246.35
+DEBUG:root:2018-03-15-2018-03-15, Sell EXECUTED 250.74
+DEBUG:root:2018-03-16-2018-03-16, Sell EXECUTED 244.54
+DEBUG:root:2018-03-19-2018-03-19, Sell EXECUTED 246.74
+DEBUG:root:2018-03-20-2018-03-20, Sell EXECUTED 240.83
+DEBUG:root:2018-03-21-2018-03-21, Sell EXECUTED 245.61
+DEBUG:root:2018-03-22-2018-03-22, Sell EXECUTED 240.98
+DEBUG:root:2018-03-23-2018-03-23, Sell EXECUTED 232.0
+DEBUG:root:2018-03-26-2018-03-26, Sell EXECUTED 229.03
+DEBUG:root:2018-03-27-2018-03-27, Sell EXECUTED 243.91
+DEBUG:root:2018-03-28-2018-03-28, Sell EXECUTED 245.86
+DEBUG:root:2018-04-02-2018-04-02, Sell EXECUTED 245.66
+DEBUG:root:2018-04-03-2018-04-03, Sell EXECUTED 243.47
+DEBUG:root:2018-04-04-2018-04-04, Sell EXECUTED 245.57
+DEBUG:root:2018-04-05-2018-04-05, Sell EXECUTED 246.44
+DEBUG:root:2018-04-06-2018-04-06, Sell EXECUTED 253.32
+DEBUG:root:2018-04-09-2018-04-09, Sell EXECUTED 254.3
+DEBUG:root:2018-04-10-2018-04-10, Sell EXECUTED 254.74
+DEBUG:root:2018-04-11-2018-04-11, Sell EXECUTED 256.59
+DEBUG:root:2018-04-12-2018-04-12, Sell EXECUTED 251.22
+DEBUG:root:2018-04-13-2018-04-13, Sell EXECUTED 247.81
+DEBUG:root:2018-04-16-2018-04-16, Sell EXECUTED 243.27
+DEBUG:root:2018-04-17-2018-04-17, Sell EXECUTED 245.27
+DEBUG:root:2018-04-18-2018-04-18, Sell EXECUTED 243.42
+DEBUG:root:2018-04-19-2018-04-19, Sell EXECUTED 241.08
+DEBUG:root:2018-04-20-2018-04-20, Sell EXECUTED 239.86
+DEBUG:root:2018-04-23-2018-04-23, Sell EXECUTED 236.0
+DEBUG:root:2018-04-24-2018-04-24, Sell EXECUTED 236.1
+DEBUG:root:2018-04-25-2018-04-25, Sell EXECUTED 233.86
+DEBUG:root:2018-04-26-2018-04-26, Sell EXECUTED 232.59
+DEBUG:root:2018-04-27-2018-04-27, Sell EXECUTED 227.56
+DEBUG:root:2018-04-30-2018-04-30, Sell EXECUTED 238.83
+DEBUG:root:2018-05-02-2018-05-02, Sell EXECUTED 239.91
+DEBUG:root:2018-05-03-2018-05-03, Sell EXECUTED 235.08
+DEBUG:root:2018-05-04-2018-05-04, Sell EXECUTED 237.56
+DEBUG:root:2018-05-07-2018-05-07, Sell EXECUTED 236.54
+DEBUG:root:2018-05-08-2018-05-08, Sell EXECUTED 241.96
+DEBUG:root:2018-05-09-2018-05-09, Sell EXECUTED 243.71
+DEBUG:root:2018-05-10-2018-05-10, Sell EXECUTED 242.2
+DEBUG:root:2018-05-11-2018-05-11, Sell EXECUTED 241.57
+DEBUG:root:2018-05-14-2018-05-14, Sell EXECUTED 243.86
+DEBUG:root:2018-05-15-2018-05-15, Sell EXECUTED 246.83
+DEBUG:root:2018-05-16-2018-05-16, Sell EXECUTED 239.52
+DEBUG:root:2018-05-17-2018-05-17, Sell EXECUTED 238.25
+DEBUG:root:2018-05-18-2018-05-18, Sell EXECUTED 237.08
+DEBUG:root:2018-05-21-2018-05-21, Sell EXECUTED 237.61
+DEBUG:root:2018-05-22-2018-05-22, Sell EXECUTED 237.71
+DEBUG:root:2018-05-23-2018-05-23, Sell EXECUTED 248.44
+DEBUG:root:2018-05-24-2018-05-24, Sell EXECUTED 257.42
+DEBUG:root:2018-05-25-2018-05-25, Sell EXECUTED 261.27
+DEBUG:root:2018-05-28-2018-05-28, Sell EXECUTED 260.88
+DEBUG:root:2018-05-29-2018-05-29, Sell EXECUTED 263.91
+DEBUG:root:2018-05-30-2018-05-30, Sell EXECUTED 254.15
+DEBUG:root:2018-05-31-2018-05-31, Sell EXECUTED 260.35
+DEBUG:root:2018-06-01-2018-06-01, Sell EXECUTED 262.69
+DEBUG:root:2018-06-04-2018-06-04, Sell EXECUTED 261.47
+DEBUG:root:2018-06-05-2018-06-05, Sell EXECUTED 254.54
+DEBUG:root:2018-06-06-2018-06-06, Sell EXECUTED 256.59
+DEBUG:root:2018-06-07-2018-06-07, Sell EXECUTED 264.44
+DEBUG:root:2018-06-08-2018-06-08, Sell EXECUTED 262.39
+DEBUG:root:2018-06-11-2018-06-11, Sell EXECUTED 266.64
+DEBUG:root:2018-06-12-2018-06-12, Sell EXECUTED 267.32
+DEBUG:root:2018-06-13-2018-06-13, Sell EXECUTED 277.08
+DEBUG:root:2018-06-14-2018-06-14, Sell EXECUTED 279.57
+DEBUG:root:2018-06-15-2018-06-15, Sell EXECUTED 275.86
+DEBUG:root:2018-06-18-2018-06-18, Sell EXECUTED 271.22
+DEBUG:root:2018-06-19-2018-06-19, Sell EXECUTED 269.27
+DEBUG:root:2018-06-20-2018-06-20, Sell EXECUTED 266.54
+DEBUG:root:2018-06-21-2018-06-21, Sell EXECUTED 268.05
+DEBUG:root:2018-06-22-2018-06-22, Sell EXECUTED 262.44
+DEBUG:root:2018-06-25-2018-06-25, Sell EXECUTED 265.22
+DEBUG:root:2018-06-26-2018-06-26, Sell EXECUTED 260.74
+DEBUG:root:2018-06-27-2018-06-27, Sell EXECUTED 260.83
+DEBUG:root:2018-06-28-2018-06-28, Sell EXECUTED 254.05
+DEBUG:root:2018-06-29-2018-06-29, Sell EXECUTED 251.96
+DEBUG:root:2018-07-02-2018-07-02, Sell EXECUTED 252.64
+DEBUG:root:2018-07-03-2018-07-03, Sell EXECUTED 253.27
+DEBUG:root:2018-07-04-2018-07-04, Sell EXECUTED 249.52
+DEBUG:root:2018-07-05-2018-07-05, Sell EXECUTED 251.61
+DEBUG:root:2018-07-06-2018-07-06, Sell EXECUTED 249.86
+DEBUG:root:2018-07-09-2018-07-09, Sell EXECUTED 251.91
+DEBUG:root:2018-07-10-2018-07-10, Sell EXECUTED 257.42
+DEBUG:root:2018-07-11-2018-07-11, Sell EXECUTED 256.25
+DEBUG:root:2018-07-12-2018-07-12, Sell EXECUTED 255.03
+DEBUG:root:2018-07-13-2018-07-13, Sell EXECUTED 255.71
+DEBUG:root:2018-07-16-2018-07-16, Sell EXECUTED 250.74
+DEBUG:root:2018-07-17-2018-07-17, Sell EXECUTED 244.59
+DEBUG:root:2018-07-18-2018-07-18, Sell EXECUTED 253.76
+DEBUG:root:2018-07-19-2018-07-19, Sell EXECUTED 253.08
+DEBUG:root:2018-07-20-2018-07-20, Sell EXECUTED 253.57
+DEBUG:root:2018-07-23-2018-07-23, Sell EXECUTED 255.61
+DEBUG:root:2018-07-24-2018-07-24, Sell EXECUTED 260.69
+DEBUG:root:2018-07-25-2018-07-25, Sell EXECUTED 261.47
+DEBUG:root:2018-07-26-2018-07-26, Sell EXECUTED 268.39
+DEBUG:root:2018-07-27-2018-07-27, Sell EXECUTED 282.44
+DEBUG:root:2018-07-30-2018-07-30, Sell EXECUTED 282.15
+DEBUG:root:2018-07-31-2018-07-31, Sell EXECUTED 289.76
+DEBUG:root:2018-08-01-2018-08-01, Sell EXECUTED 287.32
+DEBUG:root:2018-08-02-2018-08-02, Sell EXECUTED 285.86
+DEBUG:root:2018-08-03-2018-08-03, Sell EXECUTED 287.42
+DEBUG:root:2018-08-06-2018-08-06, Sell EXECUTED 293.27
+DEBUG:root:2018-08-07-2018-08-07, Sell EXECUTED 302.3
+DEBUG:root:2018-08-08-2018-08-08, Sell EXECUTED 296.64
+DEBUG:root:2018-08-09-2018-08-09, Sell EXECUTED 305.32
+DEBUG:root:2018-08-10-2018-08-10, Sell EXECUTED 309.91
+DEBUG:root:2018-08-13-2018-08-13, Sell EXECUTED 288.79
+DEBUG:root:2018-08-14-2018-08-14, Sell EXECUTED 289.47
+DEBUG:root:2018-08-16-2018-08-16, Sell EXECUTED 286.35
+DEBUG:root:2018-08-17-2018-08-17, Sell EXECUTED 287.81
+DEBUG:root:2018-08-20-2018-08-20, Sell EXECUTED 296.69
+DEBUG:root:2018-08-21-2018-08-21, Sell EXECUTED 300.79
+DEBUG:root:2018-08-23-2018-08-23, Sell EXECUTED 299.47
+DEBUG:root:2018-08-24-2018-08-24, Sell EXECUTED 293.27
+DEBUG:root:2018-08-27-2018-08-27, Sell EXECUTED 296.59
+DEBUG:root:2018-08-28-2018-08-28, Sell EXECUTED 300.54
+DEBUG:root:2018-08-29-2018-08-29, Sell EXECUTED 299.32
+DEBUG:root:2018-08-30-2018-08-30, Sell EXECUTED 301.76
+DEBUG:root:2018-08-31-2018-08-31, Sell EXECUTED 300.4
+DEBUG:root:2019-09-23-2019-09-23, Sell EXECUTED 300.05
+DEBUG:root:2019-09-24-2019-09-24, Sell EXECUTED 305.52
+DEBUG:root:2019-09-25-2019-09-25, Sell EXECUTED 289.76
+DEBUG:root:2019-09-26-2019-09-26, Sell EXECUTED 274.64
+DEBUG:root:2019-09-27-2019-09-27, Sell EXECUTED 275.81
+DEBUG:root:2019-09-30-2019-09-30, Sell EXECUTED 274.54
+DEBUG:root:2019-10-01-2019-10-01, Sell EXECUTED 266.1
+DEBUG:root:2019-10-03-2019-10-03, Sell EXECUTED 247.81
+DEBUG:root:2019-10-04-2019-10-04, Sell EXECUTED 252.2
+DEBUG:root:2019-10-07-2019-10-07, Sell EXECUTED 245.37
+DEBUG:root:2019-10-09-2019-10-09, Sell EXECUTED 244.0
+DEBUG:root:2019-10-10-2019-10-10, Sell EXECUTED 251.71
+DEBUG:root:2019-10-11-2019-10-11, Sell EXECUTED 249.96
+DEBUG:root:2019-10-14-2019-10-14, Sell EXECUTED 250.69
+DEBUG:root:2019-10-15-2019-10-15, Sell EXECUTED 250.2
+DEBUG:root:2019-10-16-2019-10-16, Sell EXECUTED 252.98
+DEBUG:root:2019-10-17-2019-10-17, Sell EXECUTED 250.15
+DEBUG:root:2019-10-18-2019-10-18, Sell EXECUTED 257.96
+DEBUG:root:2019-10-22-2019-10-22, Sell EXECUTED 263.81
+DEBUG:root:2019-10-23-2019-10-23, Sell EXECUTED 264.15
+DEBUG:root:2019-10-24-2019-10-24, Sell EXECUTED 269.27
+DEBUG:root:2019-10-25-2019-10-25, Sell EXECUTED 259.32
+DEBUG:root:2019-10-27-2019-10-27, Sell EXECUTED 278.0
+DEBUG:root:2019-10-29-2019-10-29, Sell EXECUTED 276.25
+DEBUG:root:2019-10-30-2019-10-30, Sell EXECUTED 276.1
+DEBUG:root:2019-10-31-2019-10-31, Sell EXECUTED 286.2
+DEBUG:root:2019-11-01-2019-11-01, Sell EXECUTED 304.79
+DEBUG:root:2019-11-04-2019-11-04, Sell EXECUTED 308.3
+DEBUG:root:2019-11-05-2019-11-05, Sell EXECUTED 306.25
+DEBUG:root:2019-11-06-2019-11-06, Sell EXECUTED 311.18
+DEBUG:root:2019-11-07-2019-11-07, Sell EXECUTED 310.49
+DEBUG:root:2019-11-08-2019-11-08, Sell EXECUTED 308.49
+DEBUG:root:2019-11-11-2019-11-11, Sell EXECUTED 307.03
+DEBUG:root:2019-11-13-2019-11-13, Sell EXECUTED 308.35
+DEBUG:root:2019-11-14-2019-11-14, Sell EXECUTED 299.47
+DEBUG:root:2019-11-15-2019-11-15, Sell EXECUTED 304.4
+DEBUG:root:2019-11-18-2019-11-18, Sell EXECUTED 316.1
+DEBUG:root:2019-11-19-2019-11-19, Sell EXECUTED 317.86
+DEBUG:root:2019-11-20-2019-11-20, Sell EXECUTED 323.91
+DEBUG:root:2019-11-21-2019-11-21, Sell EXECUTED 321.22
+DEBUG:root:2019-11-22-2019-11-22, Sell EXECUTED 323.37
+DEBUG:root:2019-11-25-2019-11-25, Sell EXECUTED 320.98
+DEBUG:root:2019-11-26-2019-11-26, Sell EXECUTED 329.76
+DEBUG:root:2019-11-27-2019-11-27, Sell EXECUTED 327.76
+DEBUG:root:2019-11-28-2019-11-28, Sell EXECUTED 338.4
+DEBUG:root:2019-11-29-2019-11-29, Sell EXECUTED 340.35
+DEBUG:root:2019-12-02-2019-12-02, Sell EXECUTED 335.52
+DEBUG:root:2019-12-03-2019-12-03, Sell EXECUTED 332.69
+DEBUG:root:2019-12-04-2019-12-04, Sell EXECUTED 325.96
+DEBUG:root:2019-12-05-2019-12-05, Sell EXECUTED 334.64
+DEBUG:root:2019-12-06-2019-12-06, Sell EXECUTED 328.49
+DEBUG:root:2019-12-09-2019-12-09, Sell EXECUTED 311.18
+DEBUG:root:2019-12-10-2019-12-10, Sell EXECUTED 309.47
+DEBUG:root:2019-12-11-2019-12-11, Sell EXECUTED 303.61
+DEBUG:root:2019-12-12-2019-12-12, Sell EXECUTED 306.35
+DEBUG:root:2019-12-13-2019-12-13, Sell EXECUTED 317.27
+DEBUG:root:2019-12-16-2019-12-16, Sell EXECUTED 327.76
+DEBUG:root:2019-12-17-2019-12-17, Sell EXECUTED 325.13
+DEBUG:root:2019-12-18-2019-12-18, Sell EXECUTED 326.83
+DEBUG:root:2019-12-19-2019-12-19, Sell EXECUTED 319.37
+DEBUG:root:2019-12-20-2019-12-20, Sell EXECUTED 322.3
+DEBUG:root:2019-12-23-2019-12-23, Sell EXECUTED 327.52
+DEBUG:root:2019-12-24-2019-12-24, Sell EXECUTED 325.08
+DEBUG:root:2017-11-22-2017-11-22, Buy EXECUTED 322.79
+DEBUG:root:2018-03-13-2018-03-13, Sell EXECUTED 245.17
+DEBUG:root:2018-03-14-2018-03-14, Sell EXECUTED 246.35
+DEBUG:root:2018-03-15-2018-03-15, Sell EXECUTED 250.74
+DEBUG:root:2018-03-16-2018-03-16, Sell EXECUTED 244.54
+DEBUG:root:2018-03-19-2018-03-19, Sell EXECUTED 246.74
+DEBUG:root:2018-03-20-2018-03-20, Sell EXECUTED 240.83
+DEBUG:root:2018-03-21-2018-03-21, Sell EXECUTED 245.61
+DEBUG:root:2018-03-22-2018-03-22, Sell EXECUTED 240.98
+DEBUG:root:2018-03-23-2018-03-23, Sell EXECUTED 232.0
+DEBUG:root:2018-03-26-2018-03-26, Sell EXECUTED 229.03
+DEBUG:root:2018-03-27-2018-03-27, Sell EXECUTED 243.91
+DEBUG:root:2018-03-28-2018-03-28, Sell EXECUTED 245.86
+DEBUG:root:2018-04-02-2018-04-02, Sell EXECUTED 245.66
+DEBUG:root:2018-04-03-2018-04-03, Sell EXECUTED 243.47
+DEBUG:root:2018-04-04-2018-04-04, Sell EXECUTED 245.57
+DEBUG:root:2018-04-05-2018-04-05, Sell EXECUTED 246.44
+DEBUG:root:2018-04-06-2018-04-06, Sell EXECUTED 253.32
+DEBUG:root:2018-04-09-2018-04-09, Sell EXECUTED 254.3
+DEBUG:root:2018-04-10-2018-04-10, Sell EXECUTED 254.74
+DEBUG:root:2018-04-11-2018-04-11, Sell EXECUTED 256.59
+DEBUG:root:2018-04-12-2018-04-12, Sell EXECUTED 251.22
+DEBUG:root:2018-04-13-2018-04-13, Sell EXECUTED 247.81
+DEBUG:root:2018-04-16-2018-04-16, Sell EXECUTED 243.27
+DEBUG:root:2018-04-17-2018-04-17, Sell EXECUTED 245.27
+DEBUG:root:2018-04-18-2018-04-18, Sell EXECUTED 243.42
+DEBUG:root:2018-04-19-2018-04-19, Sell EXECUTED 241.08
+DEBUG:root:2018-04-20-2018-04-20, Sell EXECUTED 239.86
+DEBUG:root:2018-04-23-2018-04-23, Sell EXECUTED 236.0
+DEBUG:root:2018-04-24-2018-04-24, Sell EXECUTED 236.1
+DEBUG:root:2018-04-25-2018-04-25, Sell EXECUTED 233.86
+DEBUG:root:2018-04-26-2018-04-26, Sell EXECUTED 232.59
+DEBUG:root:2018-04-27-2018-04-27, Sell EXECUTED 227.56
+DEBUG:root:2018-04-30-2018-04-30, Sell EXECUTED 238.83
+DEBUG:root:2018-05-02-2018-05-02, Sell EXECUTED 239.91
+DEBUG:root:2018-05-03-2018-05-03, Sell EXECUTED 235.08
+DEBUG:root:2018-05-04-2018-05-04, Sell EXECUTED 237.56
+DEBUG:root:2018-05-07-2018-05-07, Sell EXECUTED 236.54
+DEBUG:root:2018-05-08-2018-05-08, Sell EXECUTED 241.96
+DEBUG:root:2018-05-09-2018-05-09, Sell EXECUTED 243.71
+DEBUG:root:2018-05-10-2018-05-10, Sell EXECUTED 242.2
+DEBUG:root:2018-05-11-2018-05-11, Sell EXECUTED 241.57
+DEBUG:root:2018-05-14-2018-05-14, Sell EXECUTED 243.86
+DEBUG:root:2018-05-15-2018-05-15, Sell EXECUTED 246.83
+DEBUG:root:2018-05-16-2018-05-16, Sell EXECUTED 239.52
+DEBUG:root:2018-05-17-2018-05-17, Sell EXECUTED 238.25
+DEBUG:root:2018-05-18-2018-05-18, Sell EXECUTED 237.08
+DEBUG:root:2018-05-21-2018-05-21, Sell EXECUTED 237.61
+DEBUG:root:2018-05-22-2018-05-22, Sell EXECUTED 237.71
+DEBUG:root:2018-05-23-2018-05-23, Sell EXECUTED 248.44
+DEBUG:root:2018-05-24-2018-05-24, Sell EXECUTED 257.42
+DEBUG:root:2018-05-25-2018-05-25, Sell EXECUTED 261.27
+DEBUG:root:2018-05-28-2018-05-28, Sell EXECUTED 260.88
+DEBUG:root:2018-05-29-2018-05-29, Sell EXECUTED 263.91
+DEBUG:root:2018-05-30-2018-05-30, Sell EXECUTED 254.15
+DEBUG:root:2018-05-31-2018-05-31, Sell EXECUTED 260.35
+DEBUG:root:2018-06-01-2018-06-01, Sell EXECUTED 262.69
+DEBUG:root:2018-06-04-2018-06-04, Sell EXECUTED 261.47
+DEBUG:root:2018-06-05-2018-06-05, Sell EXECUTED 254.54
+DEBUG:root:2018-06-06-2018-06-06, Sell EXECUTED 256.59
+DEBUG:root:2018-06-07-2018-06-07, Sell EXECUTED 264.44
+DEBUG:root:2018-06-08-2018-06-08, Sell EXECUTED 262.39
+DEBUG:root:2018-06-11-2018-06-11, Sell EXECUTED 266.64
+DEBUG:root:2018-06-12-2018-06-12, Sell EXECUTED 267.32
+DEBUG:root:2018-06-13-2018-06-13, Sell EXECUTED 277.08
+DEBUG:root:2018-06-14-2018-06-14, Sell EXECUTED 279.57
+DEBUG:root:2018-06-15-2018-06-15, Sell EXECUTED 275.86
+DEBUG:root:2018-06-18-2018-06-18, Sell EXECUTED 271.22
+DEBUG:root:2018-06-19-2018-06-19, Sell EXECUTED 269.27
+DEBUG:root:2018-06-20-2018-06-20, Sell EXECUTED 266.54
+DEBUG:root:2018-06-21-2018-06-21, Sell EXECUTED 268.05
+DEBUG:root:2018-06-22-2018-06-22, Sell EXECUTED 262.44
+DEBUG:root:2018-06-25-2018-06-25, Sell EXECUTED 265.22
+DEBUG:root:2018-06-26-2018-06-26, Sell EXECUTED 260.74
+DEBUG:root:2018-06-27-2018-06-27, Sell EXECUTED 260.83
+DEBUG:root:2018-06-28-2018-06-28, Sell EXECUTED 254.05
+DEBUG:root:2018-06-29-2018-06-29, Sell EXECUTED 251.96
+DEBUG:root:2018-07-02-2018-07-02, Sell EXECUTED 252.64
+DEBUG:root:2018-07-03-2018-07-03, Sell EXECUTED 253.27
+DEBUG:root:2018-07-04-2018-07-04, Sell EXECUTED 249.52
+DEBUG:root:2018-07-05-2018-07-05, Sell EXECUTED 251.61
+DEBUG:root:2018-07-06-2018-07-06, Sell EXECUTED 249.86
+DEBUG:root:2018-07-09-2018-07-09, Sell EXECUTED 251.91
+DEBUG:root:2018-07-10-2018-07-10, Sell EXECUTED 257.42
+DEBUG:root:2018-07-11-2018-07-11, Sell EXECUTED 256.25
+DEBUG:root:2018-07-12-2018-07-12, Sell EXECUTED 255.03
+DEBUG:root:2018-07-13-2018-07-13, Sell EXECUTED 255.71
+DEBUG:root:2018-07-16-2018-07-16, Sell EXECUTED 250.74
+DEBUG:root:2018-07-17-2018-07-17, Sell EXECUTED 244.59
+DEBUG:root:2018-07-18-2018-07-18, Sell EXECUTED 253.76
+DEBUG:root:2018-07-19-2018-07-19, Sell EXECUTED 253.08
+DEBUG:root:2018-07-20-2018-07-20, Sell EXECUTED 253.57
+DEBUG:root:2018-07-23-2018-07-23, Sell EXECUTED 255.61
+DEBUG:root:2018-07-24-2018-07-24, Sell EXECUTED 260.69
+DEBUG:root:2018-07-25-2018-07-25, Sell EXECUTED 261.47
+DEBUG:root:2018-07-26-2018-07-26, Sell EXECUTED 268.39
+DEBUG:root:2018-07-27-2018-07-27, Sell EXECUTED 282.44
+DEBUG:root:2018-07-30-2018-07-30, Sell EXECUTED 282.15
+DEBUG:root:2018-07-31-2018-07-31, Sell EXECUTED 289.76
+DEBUG:root:2018-08-01-2018-08-01, Sell EXECUTED 287.32
+DEBUG:root:2018-08-02-2018-08-02, Sell EXECUTED 285.86
+DEBUG:root:2018-08-03-2018-08-03, Sell EXECUTED 287.42
+DEBUG:root:2018-08-06-2018-08-06, Sell EXECUTED 293.27
+DEBUG:root:2018-08-07-2018-08-07, Sell EXECUTED 302.3
+DEBUG:root:2018-08-08-2018-08-08, Sell EXECUTED 296.64
+DEBUG:root:2018-08-09-2018-08-09, Sell EXECUTED 305.32
+DEBUG:root:2018-08-10-2018-08-10, Sell EXECUTED 309.91
+DEBUG:root:2018-08-13-2018-08-13, Sell EXECUTED 288.79
+DEBUG:root:2018-08-14-2018-08-14, Sell EXECUTED 289.47
+DEBUG:root:2018-08-16-2018-08-16, Sell EXECUTED 286.35
+DEBUG:root:2018-08-17-2018-08-17, Sell EXECUTED 287.81
+DEBUG:root:2018-08-20-2018-08-20, Sell EXECUTED 296.69
+DEBUG:root:2018-08-21-2018-08-21, Sell EXECUTED 300.79
+DEBUG:root:2018-08-23-2018-08-23, Sell EXECUTED 299.47
+DEBUG:root:2018-08-24-2018-08-24, Sell EXECUTED 293.27
+DEBUG:root:2018-08-27-2018-08-27, Sell EXECUTED 296.59
+DEBUG:root:2018-08-28-2018-08-28, Sell EXECUTED 300.54
+DEBUG:root:2018-08-29-2018-08-29, Sell EXECUTED 299.32
+DEBUG:root:2018-08-30-2018-08-30, Sell EXECUTED 301.76
+DEBUG:root:2018-08-31-2018-08-31, Sell EXECUTED 300.4
+DEBUG:root:2019-09-23-2019-09-23, Sell EXECUTED 300.05
+DEBUG:root:2019-09-24-2019-09-24, Sell EXECUTED 305.52
+DEBUG:root:2019-09-25-2019-09-25, Sell EXECUTED 289.76
+DEBUG:root:2019-09-26-2019-09-26, Sell EXECUTED 274.64
+DEBUG:root:2019-09-27-2019-09-27, Sell EXECUTED 275.81
+DEBUG:root:2019-09-30-2019-09-30, Sell EXECUTED 274.54
+DEBUG:root:2019-10-01-2019-10-01, Sell EXECUTED 266.1
+DEBUG:root:2019-10-03-2019-10-03, Sell EXECUTED 247.81
+DEBUG:root:2019-10-04-2019-10-04, Sell EXECUTED 252.2
+DEBUG:root:2019-10-07-2019-10-07, Sell EXECUTED 245.37
+DEBUG:root:2019-10-09-2019-10-09, Sell EXECUTED 244.0
+DEBUG:root:2019-10-10-2019-10-10, Sell EXECUTED 251.71
+DEBUG:root:2019-10-11-2019-10-11, Sell EXECUTED 249.96
+DEBUG:root:2019-10-14-2019-10-14, Sell EXECUTED 250.69
+DEBUG:root:2019-10-15-2019-10-15, Sell EXECUTED 250.2
+DEBUG:root:2019-10-16-2019-10-16, Sell EXECUTED 252.98
+DEBUG:root:2019-10-17-2019-10-17, Sell EXECUTED 250.15
+DEBUG:root:2019-10-18-2019-10-18, Sell EXECUTED 257.96
+DEBUG:root:2019-10-22-2019-10-22, Sell EXECUTED 263.81
+DEBUG:root:2019-10-23-2019-10-23, Sell EXECUTED 264.15
+DEBUG:root:2019-10-24-2019-10-24, Sell EXECUTED 269.27
+DEBUG:root:2019-10-25-2019-10-25, Sell EXECUTED 259.32
+DEBUG:root:2019-10-27-2019-10-27, Sell EXECUTED 278.0
+DEBUG:root:2019-10-29-2019-10-29, Sell EXECUTED 276.25
+DEBUG:root:2019-10-30-2019-10-30, Sell EXECUTED 276.1
+DEBUG:root:2019-10-31-2019-10-31, Sell EXECUTED 286.2
+DEBUG:root:2019-11-01-2019-11-01, Sell EXECUTED 304.79
+DEBUG:root:2019-11-04-2019-11-04, Sell EXECUTED 308.3
+DEBUG:root:2019-11-05-2019-11-05, Sell EXECUTED 306.25
+DEBUG:root:2019-11-06-2019-11-06, Sell EXECUTED 311.18
+DEBUG:root:2019-11-07-2019-11-07, Sell EXECUTED 310.49
+DEBUG:root:2019-11-08-2019-11-08, Sell EXECUTED 308.49
+DEBUG:root:2019-11-11-2019-11-11, Sell EXECUTED 307.03
+DEBUG:root:2019-11-13-2019-11-13, Sell EXECUTED 308.35
+DEBUG:root:2019-11-14-2019-11-14, Sell EXECUTED 299.47
+DEBUG:root:2019-11-15-2019-11-15, Sell EXECUTED 304.4
+DEBUG:root:2019-11-18-2019-11-18, Sell EXECUTED 316.1
+DEBUG:root:2019-11-19-2019-11-19, Sell EXECUTED 317.86
+DEBUG:root:2019-11-20-2019-11-20, Sell EXECUTED 323.91
+DEBUG:root:2019-11-21-2019-11-21, Sell EXECUTED 321.22
+DEBUG:root:2019-11-22-2019-11-22, Sell EXECUTED 323.37
+DEBUG:root:2019-11-25-2019-11-25, Sell EXECUTED 320.98
+DEBUG:root:2019-11-26-2019-11-26, Sell EXECUTED 329.76
+DEBUG:root:2019-11-27-2019-11-27, Sell EXECUTED 327.76
+DEBUG:root:2019-11-28-2019-11-28, Sell EXECUTED 338.4
+DEBUG:root:2019-11-29-2019-11-29, Sell EXECUTED 340.35
+DEBUG:root:2019-12-02-2019-12-02, Sell EXECUTED 335.52
+DEBUG:root:2019-12-03-2019-12-03, Sell EXECUTED 332.69
+DEBUG:root:2019-12-04-2019-12-04, Sell EXECUTED 325.96
+DEBUG:root:2019-12-05-2019-12-05, Sell EXECUTED 334.64
+DEBUG:root:2019-12-06-2019-12-06, Sell EXECUTED 328.49
+DEBUG:root:2019-12-09-2019-12-09, Sell EXECUTED 311.18
+DEBUG:root:2019-12-10-2019-12-10, Sell EXECUTED 309.47
+DEBUG:root:2019-12-11-2019-12-11, Sell EXECUTED 303.61
+DEBUG:root:2019-12-12-2019-12-12, Sell EXECUTED 306.35
+DEBUG:root:2019-12-13-2019-12-13, Sell EXECUTED 317.27
+DEBUG:root:2019-12-16-2019-12-16, Sell EXECUTED 327.76
+DEBUG:root:2019-12-17-2019-12-17, Sell EXECUTED 325.13
+DEBUG:root:2019-12-18-2019-12-18, Sell EXECUTED 326.83
+DEBUG:root:2019-12-19-2019-12-19, Sell EXECUTED 319.37
+DEBUG:root:2019-12-20-2019-12-20, Sell EXECUTED 322.3
+DEBUG:root:2019-12-23-2019-12-23, Sell EXECUTED 327.52
+DEBUG:root:2019-12-24-2019-12-24, Sell EXECUTED 325.08
+DEBUG:root:2017-11-22-2017-11-22, Buy EXECUTED 322.79
+DEBUG:root:2018-03-13-2018-03-13, Sell EXECUTED 245.17
+DEBUG:root:2018-03-14-2018-03-14, Sell EXECUTED 246.35
+DEBUG:root:2018-03-15-2018-03-15, Sell EXECUTED 250.74
+DEBUG:root:2018-03-16-2018-03-16, Sell EXECUTED 244.54
+DEBUG:root:2018-03-19-2018-03-19, Sell EXECUTED 246.74
+DEBUG:root:2018-03-20-2018-03-20, Sell EXECUTED 240.83
+DEBUG:root:2018-03-21-2018-03-21, Sell EXECUTED 245.61
+DEBUG:root:2018-03-22-2018-03-22, Sell EXECUTED 240.98
+DEBUG:root:2018-03-23-2018-03-23, Sell EXECUTED 232.0
+DEBUG:root:2018-03-26-2018-03-26, Sell EXECUTED 229.03
+DEBUG:root:2018-03-27-2018-03-27, Sell EXECUTED 243.91
+DEBUG:root:2018-03-28-2018-03-28, Sell EXECUTED 245.86
+DEBUG:root:2018-04-02-2018-04-02, Sell EXECUTED 245.66
+DEBUG:root:2018-04-03-2018-04-03, Sell EXECUTED 243.47
+DEBUG:root:2018-04-04-2018-04-04, Sell EXECUTED 245.57
+DEBUG:root:2018-04-05-2018-04-05, Sell EXECUTED 246.44
+DEBUG:root:2018-04-06-2018-04-06, Sell EXECUTED 253.32
+DEBUG:root:2018-04-09-2018-04-09, Sell EXECUTED 254.3
+DEBUG:root:2018-04-10-2018-04-10, Sell EXECUTED 254.74
+DEBUG:root:2018-04-11-2018-04-11, Sell EXECUTED 256.59
+DEBUG:root:2018-04-12-2018-04-12, Sell EXECUTED 251.22
+DEBUG:root:2018-04-13-2018-04-13, Sell EXECUTED 247.81
+DEBUG:root:2018-04-16-2018-04-16, Sell EXECUTED 243.27
+DEBUG:root:2018-04-17-2018-04-17, Sell EXECUTED 245.27
+DEBUG:root:2018-04-18-2018-04-18, Sell EXECUTED 243.42
+DEBUG:root:2018-04-19-2018-04-19, Sell EXECUTED 241.08
+DEBUG:root:2018-04-20-2018-04-20, Sell EXECUTED 239.86
+DEBUG:root:2018-04-23-2018-04-23, Sell EXECUTED 236.0
+DEBUG:root:2018-04-24-2018-04-24, Sell EXECUTED 236.1
+DEBUG:root:2018-04-25-2018-04-25, Sell EXECUTED 233.86
+DEBUG:root:2018-04-26-2018-04-26, Sell EXECUTED 232.59
+DEBUG:root:2018-04-27-2018-04-27, Sell EXECUTED 227.56
+DEBUG:root:2018-04-30-2018-04-30, Sell EXECUTED 238.83
+DEBUG:root:2018-05-02-2018-05-02, Sell EXECUTED 239.91
+DEBUG:root:2018-05-03-2018-05-03, Sell EXECUTED 235.08
+DEBUG:root:2018-05-04-2018-05-04, Sell EXECUTED 237.56
+DEBUG:root:2018-05-07-2018-05-07, Sell EXECUTED 236.54
+DEBUG:root:2018-05-08-2018-05-08, Sell EXECUTED 241.96
+DEBUG:root:2018-05-09-2018-05-09, Sell EXECUTED 243.71
+DEBUG:root:2018-05-10-2018-05-10, Sell EXECUTED 242.2
+DEBUG:root:2018-05-11-2018-05-11, Sell EXECUTED 241.57
+DEBUG:root:2018-05-14-2018-05-14, Sell EXECUTED 243.86
+DEBUG:root:2018-05-15-2018-05-15, Sell EXECUTED 246.83
+DEBUG:root:2018-05-16-2018-05-16, Sell EXECUTED 239.52
+DEBUG:root:2018-05-17-2018-05-17, Sell EXECUTED 238.25
+DEBUG:root:2018-05-18-2018-05-18, Sell EXECUTED 237.08
+DEBUG:root:2018-05-21-2018-05-21, Sell EXECUTED 237.61
+DEBUG:root:2018-05-22-2018-05-22, Sell EXECUTED 237.71
+DEBUG:root:2018-05-23-2018-05-23, Sell EXECUTED 248.44
+DEBUG:root:2018-05-24-2018-05-24, Sell EXECUTED 257.42
+DEBUG:root:2018-05-25-2018-05-25, Sell EXECUTED 261.27
+DEBUG:root:2018-05-28-2018-05-28, Sell EXECUTED 260.88
+DEBUG:root:2018-05-29-2018-05-29, Sell EXECUTED 263.91
+DEBUG:root:2018-05-30-2018-05-30, Sell EXECUTED 254.15
+DEBUG:root:2018-05-31-2018-05-31, Sell EXECUTED 260.35
+DEBUG:root:2018-06-01-2018-06-01, Sell EXECUTED 262.69
+DEBUG:root:2018-06-04-2018-06-04, Sell EXECUTED 261.47
+DEBUG:root:2018-06-05-2018-06-05, Sell EXECUTED 254.54
+DEBUG:root:2018-06-06-2018-06-06, Sell EXECUTED 256.59
+DEBUG:root:2018-06-07-2018-06-07, Sell EXECUTED 264.44
+DEBUG:root:2018-06-08-2018-06-08, Sell EXECUTED 262.39
+DEBUG:root:2018-06-11-2018-06-11, Sell EXECUTED 266.64
+DEBUG:root:2018-06-12-2018-06-12, Sell EXECUTED 267.32
+DEBUG:root:2018-06-13-2018-06-13, Sell EXECUTED 277.08
+DEBUG:root:2018-06-14-2018-06-14, Sell EXECUTED 279.57
+DEBUG:root:2018-06-15-2018-06-15, Sell EXECUTED 275.86
+DEBUG:root:2018-06-18-2018-06-18, Sell EXECUTED 271.22
+DEBUG:root:2018-06-19-2018-06-19, Sell EXECUTED 269.27
+DEBUG:root:2018-06-20-2018-06-20, Sell EXECUTED 266.54
+DEBUG:root:2018-06-21-2018-06-21, Sell EXECUTED 268.05
+DEBUG:root:2018-06-22-2018-06-22, Sell EXECUTED 262.44
+DEBUG:root:2018-06-25-2018-06-25, Sell EXECUTED 265.22
+DEBUG:root:2018-06-26-2018-06-26, Sell EXECUTED 260.74
+DEBUG:root:2018-06-27-2018-06-27, Sell EXECUTED 260.83
+DEBUG:root:2018-06-28-2018-06-28, Sell EXECUTED 254.05
+DEBUG:root:2018-06-29-2018-06-29, Sell EXECUTED 251.96
+DEBUG:root:2018-07-02-2018-07-02, Sell EXECUTED 252.64
+DEBUG:root:2018-07-03-2018-07-03, Sell EXECUTED 253.27
+DEBUG:root:2018-07-04-2018-07-04, Sell EXECUTED 249.52
+DEBUG:root:2018-07-05-2018-07-05, Sell EXECUTED 251.61
+DEBUG:root:2018-07-06-2018-07-06, Sell EXECUTED 249.86
+DEBUG:root:2018-07-09-2018-07-09, Sell EXECUTED 251.91
+DEBUG:root:2018-07-10-2018-07-10, Sell EXECUTED 257.42
+DEBUG:root:2018-07-11-2018-07-11, Sell EXECUTED 256.25
+DEBUG:root:2018-07-12-2018-07-12, Sell EXECUTED 255.03
+DEBUG:root:2018-07-13-2018-07-13, Sell EXECUTED 255.71
+DEBUG:root:2018-07-16-2018-07-16, Sell EXECUTED 250.74
+DEBUG:root:2018-07-17-2018-07-17, Sell EXECUTED 244.59
+DEBUG:root:2018-07-18-2018-07-18, Sell EXECUTED 253.76
+DEBUG:root:2018-07-19-2018-07-19, Sell EXECUTED 253.08
+DEBUG:root:2018-07-20-2018-07-20, Sell EXECUTED 253.57
+DEBUG:root:2018-07-23-2018-07-23, Sell EXECUTED 255.61
+DEBUG:root:2018-07-24-2018-07-24, Sell EXECUTED 260.69
+DEBUG:root:2018-07-25-2018-07-25, Sell EXECUTED 261.47
+DEBUG:root:2018-07-26-2018-07-26, Sell EXECUTED 268.39
+DEBUG:root:2018-07-27-2018-07-27, Sell EXECUTED 282.44
+DEBUG:root:2018-07-30-2018-07-30, Sell EXECUTED 282.15
+DEBUG:root:2018-07-31-2018-07-31, Sell EXECUTED 289.76
+DEBUG:root:2018-08-01-2018-08-01, Sell EXECUTED 287.32
+DEBUG:root:2018-08-02-2018-08-02, Sell EXECUTED 285.86
+DEBUG:root:2018-08-03-2018-08-03, Sell EXECUTED 287.42
+DEBUG:root:2018-08-06-2018-08-06, Sell EXECUTED 293.27
+DEBUG:root:2018-08-07-2018-08-07, Sell EXECUTED 302.3
+DEBUG:root:2018-08-08-2018-08-08, Sell EXECUTED 296.64
+DEBUG:root:2018-08-09-2018-08-09, Sell EXECUTED 305.32
+DEBUG:root:2018-08-10-2018-08-10, Sell EXECUTED 309.91
+DEBUG:root:2018-08-13-2018-08-13, Sell EXECUTED 288.79
+DEBUG:root:2018-08-14-2018-08-14, Sell EXECUTED 289.47
+DEBUG:root:2018-08-16-2018-08-16, Sell EXECUTED 286.35
+DEBUG:root:2018-08-17-2018-08-17, Sell EXECUTED 287.81
+DEBUG:root:2018-08-20-2018-08-20, Sell EXECUTED 296.69
+DEBUG:root:2018-08-21-2018-08-21, Sell EXECUTED 300.79
+DEBUG:root:2018-08-23-2018-08-23, Sell EXECUTED 299.47
+DEBUG:root:2018-08-24-2018-08-24, Sell EXECUTED 293.27
+DEBUG:root:2018-08-27-2018-08-27, Sell EXECUTED 296.59
+DEBUG:root:2018-08-28-2018-08-28, Sell EXECUTED 300.54
+DEBUG:root:2018-08-29-2018-08-29, Sell EXECUTED 299.32
+DEBUG:root:2018-08-30-2018-08-30, Sell EXECUTED 301.76
+DEBUG:root:2018-08-31-2018-08-31, Sell EXECUTED 300.4
+DEBUG:root:2019-09-23-2019-09-23, Sell EXECUTED 300.05
+DEBUG:root:2019-09-24-2019-09-24, Sell EXECUTED 305.52
+DEBUG:root:2019-09-25-2019-09-25, Sell EXECUTED 289.76
+DEBUG:root:2019-09-26-2019-09-26, Sell EXECUTED 274.64
+DEBUG:root:2019-09-27-2019-09-27, Sell EXECUTED 275.81
+DEBUG:root:2019-09-30-2019-09-30, Sell EXECUTED 274.54
+DEBUG:root:2019-10-01-2019-10-01, Sell EXECUTED 266.1
+DEBUG:root:2019-10-03-2019-10-03, Sell EXECUTED 247.81
+DEBUG:root:2019-10-04-2019-10-04, Sell EXECUTED 252.2
+DEBUG:root:2019-10-07-2019-10-07, Sell EXECUTED 245.37
+DEBUG:root:2019-10-09-2019-10-09, Sell EXECUTED 244.0
+DEBUG:root:2019-10-10-2019-10-10, Sell EXECUTED 251.71
+DEBUG:root:2019-10-11-2019-10-11, Sell EXECUTED 249.96
+DEBUG:root:2019-10-14-2019-10-14, Sell EXECUTED 250.69
+DEBUG:root:2019-10-15-2019-10-15, Sell EXECUTED 250.2
+DEBUG:root:2019-10-16-2019-10-16, Sell EXECUTED 252.98
+DEBUG:root:2019-10-17-2019-10-17, Sell EXECUTED 250.15
+DEBUG:root:2019-10-18-2019-10-18, Sell EXECUTED 257.96
+DEBUG:root:2019-10-22-2019-10-22, Sell EXECUTED 263.81
+DEBUG:root:2019-10-23-2019-10-23, Sell EXECUTED 264.15
+DEBUG:root:2019-10-24-2019-10-24, Sell EXECUTED 269.27
+DEBUG:root:2019-10-25-2019-10-25, Sell EXECUTED 259.32
+DEBUG:root:2019-10-27-2019-10-27, Sell EXECUTED 278.0
+DEBUG:root:2019-10-29-2019-10-29, Sell EXECUTED 276.25
+DEBUG:root:2019-10-30-2019-10-30, Sell EXECUTED 276.1
+DEBUG:root:2019-10-31-2019-10-31, Sell EXECUTED 286.2
+DEBUG:root:2019-11-01-2019-11-01, Sell EXECUTED 304.79
+DEBUG:root:2019-11-04-2019-11-04, Sell EXECUTED 308.3
+DEBUG:root:2019-11-05-2019-11-05, Sell EXECUTED 306.25
+DEBUG:root:2019-11-06-2019-11-06, Sell EXECUTED 311.18
+DEBUG:root:2019-11-07-2019-11-07, Sell EXECUTED 310.49
+DEBUG:root:2019-11-08-2019-11-08, Sell EXECUTED 308.49
+DEBUG:root:2019-11-11-2019-11-11, Sell EXECUTED 307.03
+DEBUG:root:2019-11-13-2019-11-13, Sell EXECUTED 308.35
+DEBUG:root:2019-11-14-2019-11-14, Sell EXECUTED 299.47
+DEBUG:root:2019-11-15-2019-11-15, Sell EXECUTED 304.4
+DEBUG:root:2019-11-18-2019-11-18, Sell EXECUTED 316.1
+DEBUG:root:2019-11-19-2019-11-19, Sell EXECUTED 317.86
+DEBUG:root:2019-11-20-2019-11-20, Sell EXECUTED 323.91
+DEBUG:root:2019-11-21-2019-11-21, Sell EXECUTED 321.22
+DEBUG:root:2019-11-22-2019-11-22, Sell EXECUTED 323.37
+DEBUG:root:2019-11-25-2019-11-25, Sell EXECUTED 320.98
+DEBUG:root:2019-11-26-2019-11-26, Sell EXECUTED 329.76
+DEBUG:root:2019-11-27-2019-11-27, Sell EXECUTED 327.76
+DEBUG:root:2019-11-28-2019-11-28, Sell EXECUTED 338.4
+DEBUG:root:2019-11-29-2019-11-29, Sell EXECUTED 340.35
+DEBUG:root:2019-12-02-2019-12-02, Sell EXECUTED 335.52
+DEBUG:root:2019-12-03-2019-12-03, Sell EXECUTED 332.69
+DEBUG:root:2019-12-04-2019-12-04, Sell EXECUTED 325.96
+DEBUG:root:2019-12-05-2019-12-05, Sell EXECUTED 334.64
+DEBUG:root:2019-12-06-2019-12-06, Sell EXECUTED 328.49
+DEBUG:root:2019-12-09-2019-12-09, Sell EXECUTED 311.18
+DEBUG:root:2019-12-10-2019-12-10, Sell EXECUTED 309.47
+DEBUG:root:2019-12-11-2019-12-11, Sell EXECUTED 303.61
+DEBUG:root:2019-12-12-2019-12-12, Sell EXECUTED 306.35
+DEBUG:root:2019-12-13-2019-12-13, Sell EXECUTED 317.27
+DEBUG:root:2019-12-16-2019-12-16, Sell EXECUTED 327.76
+DEBUG:root:2019-12-17-2019-12-17, Sell EXECUTED 325.13
+DEBUG:root:2019-12-18-2019-12-18, Sell EXECUTED 326.83
+DEBUG:root:2019-12-19-2019-12-19, Sell EXECUTED 319.37
+DEBUG:root:2019-12-20-2019-12-20, Sell EXECUTED 322.3
+DEBUG:root:2019-12-23-2019-12-23, Sell EXECUTED 327.52
+DEBUG:root:2019-12-24-2019-12-24, Sell EXECUTED 325.08
+DEBUG:root:2020-12-10-2020-12-10, Buy EXECUTED 269.65
+DEBUG:root:2020-12-16-2020-12-16, Sell EXECUTED 269.45
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.0
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.2
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.45
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 269.3
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.7
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.35
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.0
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.8
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.8
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.85
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.05
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.05
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 271.4
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 271.15
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.85
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.6
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 271.1
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.75
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 269.85
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 269.8
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 270.1
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.4
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 269.0
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 268.35
+DEBUG:root:2020-12-17-2020-12-17, Sell EXECUTED 267.65
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 267.7
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 267.9
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 267.0
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 265.05
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.15
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.05
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.1
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.1
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.4
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.65
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.4
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.1
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.3
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.55
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.0
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.45
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.65
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 267.2
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 266.9
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 267.2
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 268.45
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 269.6
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 270.6
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 270.6
+DEBUG:root:2020-12-18-2020-12-18, Sell EXECUTED 271.5
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 268.45
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.5
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 267.25
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 267.8
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 267.45
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 267.4
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 267.05
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.65
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.15
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.65
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.6
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.9
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.8
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.7
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 266.0
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 264.6
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 263.85
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 263.6
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 261.15
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 259.25
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 259.2
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 255.6
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 255.55
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 252.0
+DEBUG:root:2020-12-21-2020-12-21, Sell EXECUTED 255.35
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 254.8
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.75
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 250.6
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 249.8
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 251.7
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 254.0
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.5
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.45
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.3
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.9
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.05
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.2
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.1
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.35
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.35
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 252.85
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 253.3
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 254.8
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 256.75
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 256.7
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 257.3
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 257.75
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 258.0
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 257.0
+DEBUG:root:2020-12-22-2020-12-22, Sell EXECUTED 257.6
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 256.95
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 257.15
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 257.4
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 259.75
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 259.2
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 260.8
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 261.6
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 261.75
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 261.65
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 260.7
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 260.95
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.0
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 261.95
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.3
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 263.35
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 263.0
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.45
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.45
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 263.25
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 263.0
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.95
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.55
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.55
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 262.35
+DEBUG:root:2020-12-23-2020-12-23, Sell EXECUTED 263.0
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 265.0
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.3
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.3
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.1
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.3
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.8
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.65
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.2
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 265.6
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.95
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 268.15
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.75
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 268.0
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.55
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.95
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.65
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.7
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 268.0
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.75
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 268.05
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.95
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.65
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 268.2
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 267.35
+DEBUG:root:2020-12-24-2020-12-24, Sell EXECUTED 266.85
+DEBUG:root:2020-12-28-2020-12-28, Sell EXECUTED 268.75
+DEBUG:root:2020-12-28-2020-12-28, Sell EXECUTED 271.0
+DEBUG:root:2020-12-28-2020-12-28, Sell EXECUTED 271.1
+DEBUG:root:2020-12-28-2020-12-28, Sell EXECUTED 271.35
+DEBUG:root:2020-12-28-2020-12-28, Sell EXECUTED 270.5

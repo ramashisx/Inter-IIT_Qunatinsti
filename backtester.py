@@ -65,7 +65,8 @@ def backtestday(data,strategy):
     cerebro.adddata(data)
     cerebro.addstrategy(strategy)
     cerebro.addanalyzer(btanalyzers.SharpeRatio, _name='mysharpe')
-#     cerebro.addanalyzer(btanalyzers.PyFolio, _name='pyfolio')
+    cerebro.addanalyzer(btanalyzers.DrawDown(),_namee='drawdown')
+    # cerebro.addanalyzer(btanalyzers.PyFolio, _name='pyfolio')
 
     print('Starting Portfolio Value: %.2f' % cerebro.broker.getvalue())
 

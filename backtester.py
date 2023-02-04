@@ -27,8 +27,8 @@ def backtest15(data,strategy):
     cerebro.broker.setcommission(commission=0.0005)
 
     data =dataFeed(
-            # dataname="15m/"+data+".csv",
-            dataname=data+".csv", 
+            dataname="15m/"+data+".csv",
+            # dataname=data+".csv", 
             timeframe=bt.TimeFrame.Minutes
 #         fromdate = datetime.datetime(2020,12,1),
         # todate = datetime.datetime(2020,1,30)
@@ -39,7 +39,8 @@ def backtest15(data,strategy):
     cerebro.adddata(data)
     cerebro.addstrategy(strategy)
     cerebro.addanalyzer(btanalyzers.SharpeRatio, _name='mysharpe')
-#     cerebro.addanalyzer(btanalyzers.PyFolio, _name='pyfolio')
+    cerebro.addanalyzer(btanalyzers.DrawDown,_name='drawdown')
+    cerebro.addanalyzer(btanalyzers.TradeAnalyzer,_name='TA')
 
     print('Starting Portfolio Value: %.2f' % cerebro.broker.getvalue())
 
@@ -47,14 +48,60 @@ def backtest15(data,strategy):
     thestrat = thestrats[0]
 
     strat = thestrat
-#     pyfoliozer = strat.analyzers.getbyname('pyfolio')
-#     returns, positions, transactions, gross_lev = pyfoliozer.get_pf_items()
 
-    print('Sharpe Ratio:', thestrat.analyzers.mysharpe.get_analysis())
     print('Final Portfolio Value: %.2f' % cerebro.broker.getvalue())
 
     cerebro.plot()
-    return thestrat.analyzers.mysharpe.get_analysis()['sharperatio'],cerebro.broker.getvalue()-100000.0
+
+    analysis = {'sharpe': thestrat.analyzers.mysharpe.get_analysis()['sharperatio'],
+                'return': (cerebro.broker.getvalue()-100000.0)/1000,
+                'drawdown': thestrat.analyzers.drawdown.get_analysis()['max']['drawdown'],
+                'totaltrades': thestrat.analyzers.TA.get_analysis()['total']['total'],
+                'totalwon': thestrat.analyzers.TA.get_analysis()['won']['total'],
+                'totallost': thestrat.analyzers.TA.get_analysis()['lost']['total'],
+                }
+                
+    return analysis
+    
+def backtest1hr(data,strategy):
+    
+    cerebro = bt.Cerebro()
+    cerebro.broker.setcash(100000.0)
+    cerebro.broker.setcommission(commission=0.0005)
+
+    data =dataFeed(
+            dataname="1hr/"+data+".csv",
+            timeframe=bt.TimeFrame.Minutes
+#         fromdate = datetime.datetime(2020,12,1),
+        # todate = datetime.datetime(2020,1,30)
+)
+
+    print(data)
+
+    cerebro.adddata(data)
+    cerebro.addstrategy(strategy)
+    cerebro.addanalyzer(btanalyzers.SharpeRatio, _name='mysharpe')
+
+    cerebro.addanalyzer(btanalyzers.DrawDown,_name='drawdown')
+    cerebro.addanalyzer(btanalyzers.TradeAnalyzer,_name='TA')
+
+    print('Starting Portfolio Value: %.2f' % cerebro.broker.getvalue())
+
+    thestrats = cerebro.run()
+    thestrat = thestrats[0]
+
+    print('Final Portfolio Value: %.2f' % cerebro.broker.getvalue())
+
+    cerebro.plot()
+    analysis = {'sharpe': thestrat.analyzers.mysharpe.get_analysis()['sharperatio'],
+                'return': (cerebro.broker.getvalue()-100000.0)/1000,
+                'drawdown': thestrat.analyzers.drawdown.get_analysis()['max']['drawdown'],
+                'totaltrades': thestrat.analyzers.TA.get_analysis()['total']['total'],
+                'totalwon': thestrat.analyzers.TA.get_analysis()['won']['total'],
+                'totallost': thestrat.analyzers.TA.get_analysis()['lost']['total']
+                }
+                
+    return analysis
 
 def backtestday(data,strategy):
     
@@ -91,11 +138,9 @@ def backtestday(data,strategy):
     analysis = {'sharpe': thestrat.analyzers.mysharpe.get_analysis()['sharperatio'],
                 'return': (cerebro.broker.getvalue()-100000.0)/1000,
                 'drawdown': thestrat.analyzers.drawdown.get_analysis()['max']['drawdown'],
-                # 'maxdrawdownlen': thestrat.analyzers.drawdown.get_analysis()['max']['len'],
                 'totaltrades': thestrat.analyzers.TA.get_analysis()['total']['total'],
                 'totalwon': thestrat.analyzers.TA.get_analysis()['won']['total'],
-                'totallost': thestrat.analyzers.TA.get_analysis()['lost']['total'],
-                # 'totalpnl': thestrat.analyzers.TA.get_analysis()['pnl']['gross']['total']
+                'totallost': thestrat.analyzers.TA.get_analysis()['lost']['total']
                 }
                 
     return analysis

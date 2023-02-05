@@ -1,0 +1,137 @@
+"""
+    Title: Bollinger Band Strategy (NSE)
+    Description: This is a long short strategy based on bollinger bands
+        and SMA dual signals
+    Style tags: Systematic Fundamental
+    Asset class: Equities, Futures, ETFs and Currencies
+    Dataset: NSE Minute
+    Capital: 500000
+"""
+from blueshift.library.technicals.indicators import (
+    bbands, ema)
+
+from blueshift.finance import commission, slippage
+from blueshift.api import(  symbol,
+                            order,
+                            order_value,
+                            set_commission,
+                            set_slippage,
+                            schedule_function,
+                            date_rules,
+                            time_rules,
+                       )
+
+def initialize(context):
+    """
+        A function to define things to do at the start of the strategy
+    """
+    # universe selection
+    context.securities = [symbol('BANKNIFTY-I')]
+
+    # define strategy parameters
+    context.params = {
+
+        'indicator_lookback':1,
+        'indicator_freq':'1d',
+        'trade_freq':5,
+        'leverage':2
+        
+    }
+
+    context.target = None
+    context.stoploss = None
+
+
+    # set trading cost and slippage to zero
+    set_commission(commission.PerShare(cost=0.0, min_trade_cost=0.0))
+    set_slippage(slippage.FixedSlippage(0.00))
+
+    schedule_function(position_check,
+        date_rule=date_rules.every_day(),
+        time_rule=time_rules.every_nth_minute(context.params['trade_freq']))
+    
+    schedule_function(opening, date_rules.every_day(),
+                      time_rules.market_open(minutes=1))
+    
+    context.trade = True
+    context.long = False
+    context.short = False
+
+def position_check(context, data):
+
+    if not context.trade:
+
+        candle_high = data.current(context.securities[0], "high")
+        candle_low = data.current(context.securities[0], "low")
+
+        if context.long:
+
+            if candle_high > context.target:
+                print("sell", order(context.securities[0], -50))
+                context.trade = True
+                context.long = False
+            
+            elif candle_low < context.stoploss:
+                print("sell", order( context.securities[0], -50))
+                context.trade = True
+                context.long = False
+        
+        elif context.short:
+
+            if candle_low < context.target:
+                print("buy", order(context.securities[0], 50))
+                context.trade = True
+                context.short = False
+            
+            elif candle_high > context.stoploss:
+                print("buy", order( context.securities[0], 50))
+                context.trade = True
+                context.short = False
+
+
+def opening(context, data):
+    """
+        A function to define core strategy steps
+    """
+    if not context.trade:
+        return
+    
+    prev_close = data.history(context.securities[0], "close", 1, "1d")[0]
+    prev_open = data.history(context.securities[0], "open", 1, "1d")[0]
+
+    prev_candle_size = abs(prev_close - prev_open)
+    today_open = data.current(context.securities[0], "open")
+
+    buy_signal_1 = prev_close > prev_open
+    buy_signal_2 = prev_close - today_open >= 0.6*prev_candle_size
+
+    sell_signal_1 = prev_close < prev_open
+    sell_signal_2 = today_open - prev_close >= 0.6*prev_candle_size
+
+    if buy_signal_1 and buy_signal_2:
+        print("yoyo")
+        var = abs(today_open - prev_close)
+        context.target = today_open + var
+        context.stoploss = today_open - var/2
+
+        print("buy", order(context.securities[0], 50))
+        context.trade = False
+        context.long = True
+
+    elif sell_signal_1 and sell_signal_2:
+        print("oyoy")
+        var = abs(today_open - prev_close)
+        context.target = today_open - var
+        context.stoploss = today_open + var/2
+
+        print("sell", order(context.securities[0], -50))
+        context.trade = False
+        context.short = True
+    
+        
+
+    
+    
+
+
+

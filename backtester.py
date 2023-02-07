@@ -108,10 +108,10 @@ def backtestday(data,strategy):
     cerebro = bt.Cerebro()
     cerebro.broker.setcash(100000.0)
 
-    data = bt.feeds.YahooFinanceCSVData(dataname="daydata/"+data+".csv",
-                                        fromdate=datetime.datetime(2020,5, 1),
+    data = bt.feeds.YahooFinanceCSVData(dataname="daydata/"+data+".csv")
+                                        # fromdate=datetime.datetime(2020,5, 1),
                                         # Do not pass values after this date
-                                        todate=datetime.datetime(2021, 5, 3))
+                                        # todate=datetime.datetime(2021, 5, 3))
     cerebro.broker.setcommission(commission=0.0005)
     cerebro.adddata(data)
     cerebro.addstrategy(strategy)

@@ -1,0 +1,202 @@
+"""
+    Title: Bollinger Band Strategy (NSE)
+    Description: This is a long short strategy based on bollinger bands
+        and SMA dual signals
+    Style tags: Systematic Fundamental
+    Asset class: Equities, Futures, ETFs and Currencies
+    Dataset: NSE Minute
+    Capital: 500000
+"""
+
+import numpy as np
+from sklearn.linear_model import LinearRegression
+
+from blueshift.library.technicals.indicators import (
+    bbands, ema)
+
+from blueshift.finance import commission, slippage
+from blueshift.api import(  symbol,
+                            order,
+                            order_value,
+                            set_commission,
+                            set_slippage,
+                            schedule_function,
+                            date_rules,
+                            time_rules,
+                            get_datetime,
+                        )
+
+
+def symbol_to_string(_symbol):
+    return str(_symbol)
+
+
+def initialize(context):
+    """
+        A function to define things to do at the start of the strategy
+    """
+    # universe selection
+    context.securities = [symbol('NIFTY-I')]
+
+    # define strategy parameters
+    context.params = {
+
+        'indicator_lookback':1,
+        'indicator_freq':'1d',
+        'trade_freq':1,
+        'leverage':2
+        
+    }
+
+    context.trades = {}
+
+    for security in context.securities:
+        context.trades[symbol_to_string(security)] = {
+            "trade" : True,
+            "long" : False,
+            "short" : False,
+            "target" : None,
+            "stoploss" : None
+        }
+
+    
+
+
+    # set trading cost and slippage to zero
+    # set_commission(commission.PerShare(cost=0.0, min_trade_cost=0.0))
+    # set_slippage(slippage.FixedSlippage(0.00))
+
+    schedule_function(position_check,
+        date_rule=date_rules.every_day(),
+        time_rule=time_rules.every_nth_minute(context.params['trade_freq']))
+    
+    schedule_function(opening, date_rules.every_day(),
+                      time_rules.market_open(minutes=1))
+    
+
+    context.reg = LinearRegression()
+
+    for
+
+
+
+
+
+
+def predict(y):
+
+    length = len(y)
+    x = np.array(range(1, length+1)).reshape(-1, 1)
+    context.reg.fit(x, y.values)
+    x_test = np.array([length]).reshape(-1, 1)
+    y_pred = reg.predict(x_test)
+    return y_pred[0][0]
+
+def position_check(context, data):
+
+    for security in context.securities:
+
+        if not context.trades[symbol_to_string(security)]["trade"]:
+
+            candle_high = data.current(security, "high")
+            candle_low = data.current(security, "low")
+            
+
+            if context.long:
+
+                if candle_high > context.trades[symbol_to_string(security)]["target"]:
+                    print("sell", order(security, -50))
+                    print(get_datetime(), data.current(context.securities[0], "high"), data.current(context.securities[0], "low"))
+                    context.trades[symbol_to_string(security)]["trade"] = True
+                    context.trades[symbol_to_string(security)]["long"] = False
+                
+                elif candle_low < context.trades[symbol_to_string(security)]["stoploss"]:
+                    print("sell", order(security, -50))
+                    print(get_datetime(), data.current(context.securities[0], "high"), data.current(context.securities[0], "low"))
+                    context.trades[symbol_to_string(security)]["trade"] = True
+                    context.trades[symbol_to_string(security)]["long"] = False
+            
+            elif context.short:
+
+                if candle_low < context.trades[symbol_to_string(security)]["target"]:
+                    print("buy", order(security, 50))
+                    print(get_datetime(), data.current(context.securities[0], "high"), data.current(context.securities[0], "low"))
+                    context.trades[symbol_to_string(security)]["trade"] = True
+                    context.trades[symbol_to_string(security)]["short"] = False
+                
+                elif candle_high > context.trades[symbol_to_string(security)]["stoploss"]
+                    context.trades[symbol_to_string(security)]["short"] = False:
+                    print("buy", order(security, 50))
+                    print(get_datetime() ,data.current(context.securities[0], "high"), data.current(context.securities[0], "low"))
+                    context.trades[symbol_to_string(security)]["trade"] = True
+                    context.trades[symbol_to_string(security)]["short"] = False
+
+
+def opening(context, data):
+    """
+        A function to define core strategy steps
+    """
+    if not context.trade:
+        return
+
+
+
+    for security in context.securities:
+
+
+        price = data.history(security, ["close", "open", "high", "low"], 7, "1d")
+        prev_close = price["close"][-1]
+        prev_open = price["open"][-1]
+        prev_high = price["high"][-1]
+        prev_low = price["low"][-1]
+
+        tommorow_pred = predict(price["close"])
+
+        prev_candle_size = abs(prev_close - prev_open)
+        today_open = data.current(security, "open")
+
+        buy_signal_1 = prev_close > prev_open
+        buy_signal_2 = today_open >= tommorow_pred
+        # buy_signal_3 = price["close"][-4] > price["close"][-3] > price["close"][-2] > price["close"][-1] < 0
+
+        sell_signal_1 = prev_close < prev_open
+        sell_signal_2 = today_open <= tommorow_pred
+        # sell_signal_3 = price["close"][-4] < price["close"][-3] < price["close"][-2] < price["close"][-1] < 0
+
+        if buy_signal_1 and buy_signal_2:
+
+            print("yoyo", get_datetime(), prev_open, prev_close, today_open)
+            # var = abs(today_open - prev_high)
+            var = 0.02*prev_close
+            context.trades[symbol_to_string(security)]["target"] = today_open + var
+            context.trades[symbol_to_string(security)]["stoploss"] = today_open - var
+            print(context.trades[symbol_to_string(security)]["target"], 
+                context.trades[symbol_to_string(security)]["stoploss"])
+
+            print("buy", order(security, 50))
+            context.trades[symbol_to_string(security)]["trade"] = False
+            context.trades[symbol_to_string(security)]["long"] = True
+            
+
+        elif sell_signal_1 and sell_signal_2:
+            
+            print("oyoy", get_datetime(), prev_open, prev_close, today_open)
+            # var = abs(today_open - prev_low)
+            var = 0.02*prev_close
+            context.trades[symbol_to_string(security)]["target"] = today_open - var
+            context.trades[symbol_to_string(security)]["stoploss"] = today_open + var
+            print(context.trades[symbol_to_string(security)]["target"], 
+                context.trades[symbol_to_string(security)]["stoploss"])
+
+            print("sell", order(security, -50))
+            context.trades[symbol_to_string(security)]["trade"] = False
+            context.trades[symbol_to_string(security)]["short"] = True
+
+         
+    
+    
+    
+    
+
+
+

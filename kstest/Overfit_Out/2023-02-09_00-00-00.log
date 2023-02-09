@@ -1,0 +1,8 @@
+Blueshift Alert[2023-02-09 11:42:05.863890] INFO :Set up alert manager Blueshift Alert Manager[50853] with retry limits 20.
+Blueshift Alert[None] INFO :Starting backtest with sourasis1.py
+Blueshift Alert[None] INFO :engine: 2.1.0, broker:nse-backtest, timezone:Asia/Calcutta, total sessions:40
+Blueshift Alert[2022-01-03 00:00:00+05:30] INFO in algorithm:risk management: enabled exit cool-off period for 30 minutes.
+Blueshift Alert[None] INFO :backtest run complete, time taken 0:00:22.790000.
+Blueshift Alert[None] INFO :Simulated 40 sessions out of 40.
+Blueshift Alert[None] INFO :first open: 2022-01-03 00:00:00+05:30
+Blueshift Alert[None] INFO :last simulated: 2022-02-28 00:00:00+05:30

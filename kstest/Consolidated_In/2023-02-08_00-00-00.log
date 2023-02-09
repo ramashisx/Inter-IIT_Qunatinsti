@@ -1,0 +1,9 @@
+Blueshift Alert[2023-02-08 23:40:25.168713] INFO :Set up alert manager Blueshift Alert Manager[50343] with retry limits 20.
+Blueshift Alert[None] INFO :Starting backtest with Final_Code.py
+Blueshift Alert[None] INFO :engine: 2.1.0, broker:nse-backtest, timezone:Asia/Calcutta, total sessions:44
+Blueshift Alert[2019-01-01 00:00:00+05:30] INFO in algorithm:risk management: enabled exit cool-off period for 30 minutes.
+Blueshift Alert[2019-02-28 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20190228FUT [22]) to EquityFutures(BANKNIFTY20190328FUT [22])
+Blueshift Alert[None] INFO :backtest run complete, time taken 0:00:15.220000.
+Blueshift Alert[None] INFO :Simulated 44 sessions out of 44.
+Blueshift Alert[None] INFO :first open: 2019-01-01 00:00:00+05:30
+Blueshift Alert[None] INFO :last simulated: 2019-03-01 00:00:00+05:30

@@ -1,0 +1,47 @@
+Blueshift Alert[2023-02-08 14:54:18.766279] INFO :Set up alert manager Blueshift Alert Manager[50013] with retry limits 20.
+Blueshift Alert[None] INFO :Starting backtest with mbchwdih.py
+Blueshift Alert[None] INFO :engine: 2.1.0, broker:nse-backtest, timezone:Asia/Calcutta, total sessions:739
+Blueshift Alert[2018-07-02 00:00:00+05:30] INFO in algorithm:risk management: enabled exit cool-off period for 30 minutes.
+Blueshift Alert[2018-07-26 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20180726FUT [22]) to EquityFutures(BANKNIFTY20180830FUT [22])
+Blueshift Alert[2018-07-26 15:16:00+05:30] INFO :Rolling position from EquityFutures(NIFTY20180726FUT [121]) to EquityFutures(NIFTY20180830FUT [121])
+Blueshift Alert[2018-08-30 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20180830FUT [22]) to EquityFutures(BANKNIFTY20180927FUT [22])
+Blueshift Alert[2018-08-30 15:16:00+05:30] INFO :Rolling position from EquityFutures(NIFTY20180830FUT [121]) to EquityFutures(NIFTY20180927FUT [121])
+Blueshift Alert[2018-09-27 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20180927FUT [22]) to EquityFutures(BANKNIFTY20181025FUT [22])
+Blueshift Alert[2018-10-25 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20181025FUT [22]) to EquityFutures(BANKNIFTY20181129FUT [22])
+Blueshift Alert[2018-12-27 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20181227FUT [22]) to EquityFutures(BANKNIFTY20190131FUT [22])
+Blueshift Alert[2019-01-31 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20190131FUT [22]) to EquityFutures(BANKNIFTY20190228FUT [22])
+Blueshift Alert[2019-02-28 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20190228FUT [22]) to EquityFutures(BANKNIFTY20190328FUT [22])
+Blueshift Alert[2019-03-28 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20190328FUT [22]) to EquityFutures(BANKNIFTY20190425FUT [22])
+Blueshift Alert[2019-03-28 15:16:00+05:30] INFO :Rolling position from EquityFutures(NIFTY20190328FUT [121]) to EquityFutures(NIFTY20190425FUT [121])
+Blueshift Alert[2019-04-25 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20190425FUT [22]) to EquityFutures(BANKNIFTY20190530FUT [22])
+Blueshift Alert[2019-04-25 15:16:00+05:30] INFO :Rolling position from EquityFutures(NIFTY20190425FUT [121]) to EquityFutures(NIFTY20190530FUT [121])
+Blueshift Alert[2019-05-30 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20190530FUT [22]) to EquityFutures(BANKNIFTY20190627FUT [22])
+Blueshift Alert[2019-06-27 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20190627FUT [22]) to EquityFutures(BANKNIFTY20190725FUT [22])
+Blueshift Alert[2019-07-25 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20190725FUT [22]) to EquityFutures(BANKNIFTY20190829FUT [22])
+Blueshift Alert[2019-07-25 15:16:00+05:30] INFO :Rolling position from EquityFutures(NIFTY20190725FUT [121]) to EquityFutures(NIFTY20190829FUT [121])
+Blueshift Alert[2019-10-31 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20191031FUT [22]) to EquityFutures(BANKNIFTY20191128FUT [22])
+Blueshift Alert[2019-10-31 15:16:00+05:30] INFO :Rolling position from EquityFutures(NIFTY20191031FUT [121]) to EquityFutures(NIFTY20191128FUT [121])
+Blueshift Alert[2019-11-28 15:16:00+05:30] INFO :Rolling position from EquityFutures(NIFTY20191128FUT [121]) to EquityFutures(NIFTY20191226FUT [121])
+Blueshift Alert[2019-12-26 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20191226FUT [22]) to EquityFutures(BANKNIFTY20200130FUT [22])
+Blueshift Alert[2020-01-30 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20200130FUT [22]) to EquityFutures(BANKNIFTY20200227FUT [22])
+Blueshift Alert[2020-01-30 15:16:00+05:30] INFO :Rolling position from EquityFutures(NIFTY20200130FUT [121]) to EquityFutures(NIFTY20200227FUT [121])
+Blueshift Alert[2020-02-27 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20200227FUT [22]) to EquityFutures(BANKNIFTY20200326FUT [22])
+Blueshift Alert[2020-02-27 15:16:00+05:30] INFO :Rolling position from EquityFutures(NIFTY20200227FUT [121]) to EquityFutures(NIFTY20200326FUT [121])
+Blueshift Alert[2020-05-28 15:16:00+05:30] INFO :Rolling position from EquityFutures(NIFTY20200528FUT [121]) to EquityFutures(NIFTY20200625FUT [121])
+Blueshift Alert[2020-06-25 15:16:00+05:30] INFO :Rolling position from EquityFutures(NIFTY20200625FUT [121]) to EquityFutures(NIFTY20200730FUT [121])
+Blueshift Alert[2020-07-30 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20200730FUT [22]) to EquityFutures(BANKNIFTY20200827FUT [22])
+Blueshift Alert[2020-07-30 15:16:00+05:30] INFO :Rolling position from EquityFutures(NIFTY20200730FUT [121]) to EquityFutures(NIFTY20200827FUT [121])
+Blueshift Alert[2020-08-27 15:16:00+05:30] INFO :Rolling position from EquityFutures(NIFTY20200827FUT [121]) to EquityFutures(NIFTY20200924FUT [121])
+Blueshift Alert[2020-12-31 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20201231FUT [22]) to EquityFutures(BANKNIFTY20210128FUT [22])
+Blueshift Alert[2020-12-31 15:16:00+05:30] INFO :Rolling position from EquityFutures(NIFTY20201231FUT [121]) to EquityFutures(NIFTY20210128FUT [121])
+Blueshift Alert[2021-02-25 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20210225FUT [22]) to EquityFutures(BANKNIFTY20210325FUT [22])
+Blueshift Alert[2021-02-25 15:16:00+05:30] INFO :Rolling position from EquityFutures(NIFTY20210225FUT [121]) to EquityFutures(NIFTY20210325FUT [121])
+Blueshift Alert[2021-04-29 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20210429FUT [22]) to EquityFutures(BANKNIFTY20210527FUT [22])
+Blueshift Alert[2021-05-27 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20210527FUT [22]) to EquityFutures(BANKNIFTY20210624FUT [22])
+Blueshift Alert[2021-05-27 15:16:00+05:30] INFO :Rolling position from EquityFutures(NIFTY20210527FUT [121]) to EquityFutures(NIFTY20210624FUT [121])
+Blueshift Alert[2021-06-24 15:16:00+05:30] INFO :Rolling position from EquityFutures(BANKNIFTY20210624FUT [22]) to EquityFutures(BANKNIFTY20210729FUT [22])
+Blueshift Alert[2021-06-24 15:16:00+05:30] INFO :Rolling position from EquityFutures(NIFTY20210624FUT [121]) to EquityFutures(NIFTY20210729FUT [121])
+Blueshift Alert[None] INFO :backtest run complete, time taken 0:06:42.620000.
+Blueshift Alert[None] INFO :Simulated 739 sessions out of 739.
+Blueshift Alert[None] INFO :first open: 2018-07-02 00:00:00+05:30
+Blueshift Alert[None] INFO :last simulated: 2021-07-01 00:00:00+05:30
